@@ -57,10 +57,10 @@ Na escolha de um modelo de desenvolvimento optou-se pela prototipação, pois Se
 
 O mesmo autor ainda apresenta um gráfico demonstrativo das etapas do processo de prototipagem:
 
-￼
+|￼Imagem 1: Prototipação. Fonte: Pressman (2010)|
+|----------------------------------------------|
+|![prototipacao](http://s3.amazonaws.com/magoo/ABAAABiVMAA-99.png)|
 
-![prototipacao](http://s3.amazonaws.com/magoo/ABAAABiVMAA-99.png)
-Imagem 1: Prototipação. Fonte: Pressman (2010)
 
 
 Sustentando a adoção deste método, em artigo publicado, Sato (2010) destaca alguns motivos relevantes para o uso de protótipos ao longo do processo de desenvolvimento de jogos: 
