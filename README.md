@@ -499,38 +499,29 @@ As batalhas serão Side Battles (batalhas laterais)  onde o jogador é levado a 
 |Fugir |Os personagens tentarão fugir da luta, se obtiverem êxito, o jogador voltará a tela do cenário. Em batalhas contra chefe é impossível a  fuga.|
 
 
-	A batalha acontecerá quando:
+A batalha acontecerá quando:
 	- O jogador tocar em um inimigo no cenário;
 	- Um evento no decorrer da história acontecer (geralmente um chefe).
 
 
-	O jogador encontrará diversos desafios na história, como a jornada para terras distantes, busca por artefatos perdidos, explorar calabouços, batalhar com fantásticas criaturas das mais diferentes espécies e tamanhos.
-	O progresso no jogo acontece por meio da realização dos principais eventos da história que levarão o jogador a desafios mais complicados, calabouços mais profundos e inimigos mais poderosos, exigindo maior fortalecimento dos heróis. O jogador encontrará áreas especiais no jogo, chamadas de área segura, onde os inimigos não podem entrar e o jogador poderá salvar seu progresso. O progresso poderá ser salvo fazendo com que o personagem toque no Cristal Mágico. Certas tarefas devem ser cumpridas para que o progresso no jogo aconteça, e certas tarefas opcionais estarão acessíveis ao jogador para que possa conquistar novos itens e equipamentos.
-	O jogador irá se deparar com uma gama de possibilidades de recompensas. Poderá encontrar tesouros em lugares inóspitos, recebe itens, dinheiro e experiência após vencer uma batalha, poderá cumprir tarefas e receber algum tipo de recompensa por isso.
-	O jogo termina quando o jogador completar todos os eventos principais. Os eventos principais estão relacionados ao enredo da história, quando o jogador cumprir todos os desafios da história o jogo se dará por finalizado.
-	Se todos os heróis do grupo morrerem (Deixar o HP chegar a zero) o jogo acaba e o jogador voltará a tela de inicio, podendo carregar algum de seus jogos salvos na memória.
-	As habilidades dos personagens terão um custo de energia, que pode ser recuperado através de itens, tocando no cristal ou dormindo em locais de repouso. As feitiçarias além do custo de atp (energia) poderão requerer a utilização de ítens para serem conjuradas.
+O jogador encontrará diversos desafios na história, como a jornada para terras distantes, busca por artefatos perdidos, explorar calabouços, batalhar com fantásticas criaturas das mais diferentes espécies e tamanhos.
+O progresso no jogo acontece por meio da realização dos principais eventos da história que levarão o jogador a desafios mais complicados, calabouços mais profundos e inimigos mais poderosos, exigindo maior fortalecimento dos heróis. O jogador encontrará áreas especiais no jogo, chamadas de área segura, onde os inimigos não podem entrar e o jogador poderá salvar seu progresso. O progresso poderá ser salvo fazendo com que o personagem toque no Cristal Mágico. Certas tarefas devem ser cumpridas para que o progresso no jogo aconteça, e certas tarefas opcionais estarão acessíveis ao jogador para que possa conquistar novos itens e equipamentos.
+O jogador irá se deparar com uma gama de possibilidades de recompensas. Poderá encontrar tesouros em lugares inóspitos, recebe itens, dinheiro e experiência após vencer uma batalha, poderá cumprir tarefas e receber algum tipo de recompensa por isso.
+O jogo termina quando o jogador completar todos os eventos principais. Os eventos principais estão relacionados ao enredo da história, quando o jogador cumprir todos os desafios da história o jogo se dará por finalizado.
+Se todos os heróis do grupo morrerem (Deixar o HP chegar a zero) o jogo acaba e o jogador voltará a tela de inicio, podendo carregar algum de seus jogos salvos na memória.
+As habilidades dos personagens terão um custo de energia, que pode ser recuperado através de itens, tocando no cristal ou dormindo em locais de repouso. As feitiçarias além do custo de atp (energia) poderão requerer a utilização de ítens para serem conjuradas.
+
 //TODO inserir e descrever menu
 
-Personagens 
-	A imagem dos personagens foi elaborada no criador de imagens do RPG Maker MV, plataforma principal de desenvolvimento deste projeto.
+## Personagens 
 
+A imagem dos personagens foi elaborada no criador de imagens do RPG Maker MV, plataforma principal de desenvolvimento deste projeto.
 
-Personagens Jogáveis:
+### Personagens Jogáveis:
 
-Nome
-Gilgamesh
-￼
-Altura
-1,90
-Local de Nascimento
-Uruk
-Ocupação
-Rei de Uruk
-Classe
-Herói
-Descrição
-O rei de Uruk e protagonista da epopéia, Filho da Deusa Ninsun com o pastor mortal Lugalbanda, por estes motivos Gilgamesh é dois terços deus e um terço homem. O herói da história passa por várias aventuras  e perigos desafiando os deuses de sua terra. É Bravo, porém sincero. É também o mais belo e poderoso de Uruk.
+|Nome|Altura|Locals de Nascimento|Ocupação|Classe|Descrição|Sprites|Rosto|
+|----|------|--------------------|--------|------|---------|-------|-----|
+|Gilgamesh|1,90|Uruk|Rei de Uruk|Herói|O rei de Uruk e protagonista da epopéia, Filho da Deusa Ninsun com o pastor mortal Lugalbanda, por estes motivos Gilgamesh é dois terços deus e um terço homem. O herói da história passa por várias aventuras  e perigos desafiando os deuses de sua terra. É Bravo, porém sincero. É também o mais belo e poderoso de Uruk.|![Gigamesh Sprites](https://uploaddeimagens.com.br/images/001/350/718/original/Gilgamesh.png?1522301761)|![Gilgamesh Face](https://uploaddeimagens.com.br/images/001/350/720/full/Gilgamesh.png?1522301893)|
 ￼￼
 ￼￼
 
