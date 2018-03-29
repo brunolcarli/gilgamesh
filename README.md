@@ -47,22 +47,22 @@ Referências
 
 ## Prefácio:
 
-	Este documento descreve as características relativas ao desenvolvimento do jogo digital A Aventura de Gilgamesh como produto de software. Desta forma pretende-se elucidar os aspectos técnicos do processo comum de desenvolvimento e software. Esta primeira versão (1.0) é um esboço do projeto que deve ser seguido como orientação no processo de desenvolvimento. Também é objetivo deste documento servir como registro do processo de desenvolvimento do produto e descrição das características do software.
+Este documento descreve as características relativas ao desenvolvimento do jogo digital A Aventura de Gilgamesh como produto de software. Desta forma pretende-se elucidar os aspectos técnicos do processo comum de desenvolvimento e software. Esta primeira versão (1.0) é um esboço do projeto que deve ser seguido como orientação no processo de desenvolvimento. Também é objetivo deste documento servir como registro do processo de desenvolvimento do produto e descrição das características do software.
 
 ## Escopo e Descrição do Processo:
 
-	Gilgamesh: um conto épico é um Software de Computador Pessoal (PRESSMAN, 2010), mais especificamente um jogo digital, descrevendo acontecimentos da Epopéia de Gilgamesh, e incrementada com novas aventuras e novos personagens, como Alfr, um caçador  que  ajuda Gilgamesh, o rei da cidade de Uruk, em sua jornada, e Skulda, uma misteriosa Feiticeira que se diz designada a ajudar Gilgamesh em suas empreitadas. O game mistura a trama da saga com a fantasia que permeia o universo do RPG, enaltecendo o caráter old school do game. 
-	Na escolha de um modelo de desenvolvimento optou-se pela prototipação, pois Segundo Preesman (2010):
+Gilgamesh: um conto épico é um Software de Computador Pessoal (PRESSMAN, 2010), mais especificamente um jogo digital, descrevendo acontecimentos da Epopéia de Gilgamesh, e incrementada com novas aventuras e novos personagens, como Alfr, um caçador  que  ajuda Gilgamesh, o rei da cidade de Uruk, em sua jornada, e Skulda, uma misteriosa Feiticeira que se diz designada a ajudar Gilgamesh em suas empreitadas. O game mistura a trama da saga com a fantasia que permeia o universo do RPG, enaltecendo o caráter old school do game. 
+Na escolha de um modelo de desenvolvimento optou-se pela prototipação, pois Segundo Preesman (2010):
 
- 	>A prototipação é um processo que capacita o desenvolvedor a criar um modelo do software que será implementado. O modelo pode assumir uma das três formas: (1) um protótipo em papel ou modelo baseado em PC que retrata a interação  homem-máquina de uma forma que capacita o usuário a entender quanta interação ocorrerá; (2) um protótipo de trabalho  que implementa algum subconjunto da função exigida do software desejado; ou (3) um programa existente que executa parte ou toda a função desejada, mas que tem outras características que serão melhoradas em um novo esforço de desenvolvimento.
+ >A prototipação é um processo que capacita o desenvolvedor a criar um modelo do software que será implementado. O modelo pode assumir uma das três formas: (1) um protótipo em papel ou modelo baseado em PC que retrata a interação  homem-máquina de uma forma que capacita o usuário a entender quanta interação ocorrerá; (2) um protótipo de trabalho  que implementa algum subconjunto da função exigida do software desejado; ou (3) um programa existente que executa parte ou toda a função desejada, mas que tem outras características que serão melhoradas em um novo esforço de desenvolvimento.
 
-	O mesmo autor ainda apresenta um gráfico demonstrativo das etapas do processo de prototipagem:
+O mesmo autor ainda apresenta um gráfico demonstrativo das etapas do processo de prototipagem:
 
 ￼
 Imagem 1: Prototipação. Fonte: Pressman (2010)
 ![prototipacao](http://s3.amazonaws.com/magoo/ABAAABiVMAA-99.png)
 
-	Sustentando a adoção deste método, em artigo publicado, Sato (2010) destaca alguns motivos relevantes para o uso de protótipos ao longo do processo de desenvolvimento de jogos: 
+Sustentando a adoção deste método, em artigo publicado, Sato (2010) destaca alguns motivos relevantes para o uso de protótipos ao longo do processo de desenvolvimento de jogos: 
 
 - Permitem uma maior interação do game design e das ideias da equipe ampliando o alcance da comunicação entre os membros da equipe; 
 - Permitem maior visualização e estudos de possibilidades para o jogo;
@@ -76,7 +76,7 @@ Imagem 1: Prototipação. Fonte: Pressman (2010)
 - Oferecem redução de tempo e custo; 
 - Permitem balanceamento entre a visão criativa e as condições técnicas e tecnológicas. 
 
-	A utilização da Game Engine (Motor de Jogo) RPG Maker MV facilitará o processo de prototipação e os testes do jogo, permitindo um deploy ágil de um protótipo experimental jogável.
+A utilização da Game Engine (Motor de Jogo) RPG Maker MV facilitará o processo de prototipação e os testes do jogo, permitindo um deploy ágil de um protótipo experimental jogável.
 
 ## Objetivos:
 	- Deste Documento:
