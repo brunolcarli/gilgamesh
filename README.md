@@ -751,12 +751,12 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 |Pote de Mel|Consumível fora de batalha|250|Restaura 150 pontos de energia de um personagem|imagem|
 |Cerveja|Consumível fora de batalha|500|Restaura 500 pontos de energia de um personagem|imagem|
 ￼|Gota Divina|Consumível fora de batalha|1500|Restaura completamento os pontos de energia de um personagem|imagem|
-|Cesta de pães|Consumível fora de batalha|120|Restaura 250 pontos de vida de todos os personagens.|imagem|
-|Cesta de maçãs|Consumível fora de batalha|500|Restaura 500 pontos de vida de todos os personagens.|imagem|
-￼|Bolo de Carne|Consumível fora de batalha|2000|Restaura 1500 pontos de vida de todos os personagens.|imagem|
-|Frutapão Divino|Consumível fora de batalha|6000|Restaura 5000 pontos de vida de todos os personagens.|imagem|
-|Jarra de Suco|Consumível fora de batalha|200|Restaura 50 pontos de energia de todos os personagens.|imagem|
-|Vinho|Consumível fora de batalha|500|Restaura 150 pontos de energia de todos os personagens.|imagem|
+|Cesta de pães|Consumível fora de batalha|120|Restaura 250 pontos de vida de todos os personagens|imagem|
+|Cesta de maçãs|Consumível fora de batalha|500|Restaura 500 pontos de vida de todos os personagens|imagem|
+￼|Bolo de Carne|Consumível fora de batalha|2000|Restaura 1500 pontos de vida de todos os personagens|imagem|
+|Frutapão Divino|Consumível fora de batalha|6000|Restaura 5000 pontos de vida de todos os personagens|imagem|
+|Jarra de Suco|Consumível fora de batalha|200|Restaura 50 pontos de energia de todos os personagens|imagem|
+|Vinho|Consumível fora de batalha|500|Restaura 150 pontos de energia de todos os personagens|imagem|
 ￼
 Hidromel
 Consumível fora de batalha
