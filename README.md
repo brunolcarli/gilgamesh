@@ -529,6 +529,7 @@ A imagem dos personagens foi elaborada no criador de imagens do RPG Maker MV, pl
 |-|-|-|-|-|-|-|-|
 ￼￼|Skulda|1,63|Desconhecido|Serva e Protetora de Gilgamesh|Feiticeira|Uma feiticeira que diz ser designada pelos deuses para empenhar-se em ajudar Gilgamesh à cumprir seu destino. Misteriosa e sarcástica, porém extremamente sábia. Possui feitiços mágicos destruidores capazes de causar um estrago enorme em seus inimigos.|sprite skulda|face skulda|
 
+
 ## Personagens Não Jogáveis da história (NPC):
 Nome
 Pai do Alfr
