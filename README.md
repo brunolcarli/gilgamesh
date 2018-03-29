@@ -554,362 +554,209 @@ A imagem dos personagens foi elaborada no criador de imagens do RPG Maker MV, pl
 
 ￼￼
 
-NPCs com função unicamente de exibir mensagens ao jogador:
+### NPCs com função unicamente de exibir mensagens ao jogador:
 
 //TODO colocar o sprite dos NPCs variados
 
-Universo do Jogo
-	Os cenários do jogo devem descrever uma imagem digna de um ambiente mágico com uma história de fantasia. Os mapas utilizarão a técnica de parallax evidenciando os efeitos de sombreamento, luz e overlays.
+## Universo do Jogo
+
+Os cenários do jogo devem descrever uma imagem digna de um ambiente mágico com uma história de fantasia. Os mapas utilizarão a técnica de parallax evidenciando os efeitos de sombreamento, luz e overlays.
 
 ￼
 Imagem 2 - Colinas do Bosque
-	Os cenários serão conectados através de eventos de transferência, sempre que o jogador chegar ao final da estrada e houver este evento, automaticamente o herói será transferido para a continuação do mapa. Em geral as áreas do jogo estarão dispostas em um grande mapa do mundo em que o jogador poderá ter a liberdade de explorar, podendo este entrar nas florestas, bosques, cidades, vilarejos, calabouços, etc. que estiverem por sobre o mapa. Ao tocar em um destes o evento de transferência será ativado, levando o herói para a localização daquela área.
-	O mundo será semi-aberto dando liberdade ao jogador para explorar áreas inóspitas do game, desde que possua condições de sobreviver nestas áreas e tenha cumprido determinada parte da história que permita sua passagem nesta área. Por não possuir limites (exceto por poucos bloqueios que somente serão liberados após a conclusão de um determinado evento da história) o jogador poderá, por exemplo, entrar em um calabouço ou região onde os inimigos sejam extremamente fortes, obrigando-o a retornar mais tarde quando ja tiver fortalecido seus heróis.
-	O ambiente deverá passar uma sensação de nostalgia e fantasia, além de tornar a imersão do jogador na história mais envolvente, fazendo-o sentir como se realmente fosse o herói. Os cenários devem ser belos, originais e únicos.
-	Cada cenário deve ter musicalidade com efeitos sonoros característicos à sua situação. Músicas temáticas serão utilizadas para dar vida aos ambientes nostálgicos característicos de tempos passados, ressaltando o caráter fantasioso do jogo. Músicas de ação para momentos de batalha e guitarras distorcidas em chefes poderosos passando a sensação de um momento decisivo na vida do herói.
+
+Os cenários serão conectados através de eventos de transferência, sempre que o jogador chegar ao final da estrada e houver este evento, automaticamente o herói será transferido para a continuação do mapa. Em geral as áreas do jogo estarão dispostas em um grande mapa do mundo em que o jogador poderá ter a liberdade de explorar, podendo este entrar nas florestas, bosques, cidades, vilarejos, calabouços, etc. que estiverem por sobre o mapa. Ao tocar em um destes o evento de transferência será ativado, levando o herói para a localização daquela área.
+O mundo será semi-aberto dando liberdade ao jogador para explorar áreas inóspitas do game, desde que possua condições de sobreviver nestas áreas e tenha cumprido determinada parte da história que permita sua passagem nesta área. Por não possuir limites (exceto por poucos bloqueios que somente serão liberados após a conclusão de um determinado evento da história) o jogador poderá, por exemplo, entrar em um calabouço ou região onde os inimigos sejam extremamente fortes, obrigando-o a retornar mais tarde quando ja tiver fortalecido seus heróis.
+O ambiente deverá passar uma sensação de nostalgia e fantasia, além de tornar a imersão do jogador na história mais envolvente, fazendo-o sentir como se realmente fosse o herói. Os cenários devem ser belos, originais e únicos.
+Cada cenário deve ter musicalidade com efeitos sonoros característicos à sua situação. Músicas temáticas serão utilizadas para dar vida aos ambientes nostálgicos característicos de tempos passados, ressaltando o caráter fantasioso do jogo. Músicas de ação para momentos de batalha e guitarras distorcidas em chefes poderosos passando a sensação de um momento decisivo na vida do herói.
 
 //TODO incluir imagens dos mapas e fases do jogo;
 
-Mapas:
+## Mapas:
 
-	Os mapas serão representados neste documento através de diagramas de Caso de Uso, onde cada caso de uso representa um mapa e suas associações.
+Os mapas serão representados neste documento através de diagramas de Caso de Uso, onde cada caso de uso representa um mapa e suas associações.
 
-//=========================
-// Locais do capitulo 1
-//=========================
+	//=========================
+	// Locais do capitulo 1
+	//=========================
 
-//=========================
-// Bosque das Colinas
-// Casa do caçador
-// Cidade de Uruk
-//	 Palácio de Uruk
-//=========================	
-	O primeiro mapa do jogo é o Bosque das Colinas, nele acontecerá a cena de Alfr se deparando com Enkidu no riacho, então o jogador tomará posse do controle sobre Alfr para guiá-lo pelo bosque até a saída para o mapa, em direção a sua casa.
+	//=========================
+	// Bosque das Colinas
+	// Casa do caçador
+	// Cidade de Uruk
+	//	 Palácio de Uruk
+	//=========================	
+
+O primeiro mapa do jogo é o Bosque das Colinas, nele acontecerá a cena de Alfr se deparando com Enkidu no riacho, então o jogador tomará posse do controle sobre Alfr para guiá-lo pelo bosque até a saída para o mapa, em direção a sua casa.
 
 ￼
 Imagem 3 - Modelo do mapa da região do Bosque das Colinas
 
-
- ￼     ￼
-	    Imagem 4 - Bosque 1				   Imagem 5 - Bosque 2
-
-￼ ￼
-
-Imagem 6 - Riacho das Colinas                              Imagem 7 - Colinas 1
-
-￼
-
+Imagem 4 - Bosque 1				   
+Imagem 5 - Bosque 2
+Imagem 6 - Riacho das Colinas                              
+Imagem 7 - Colinas 1
 Imagem 8 - Colinas 2
-
-
-￼
 Imagem 9 - Modelo do mapa da Casa do Caçador
-
-￼
 Imagem 10 - Casa do Caçador Fora
-
-￼
 Imagem 11 - Casa do Cacador Dentro
-
-
-
-
-￼
 Imagem 11 - Modelo do mapa da Cidade de Uruk
-
-￼
 Imagem 12 - Cidade de Uruk
-
-￼ ￼ ￼
 Imagem 13 - Loja de Itens, Loja de armas e Equips, Covenstead
-
-￼ ￼
 Imagem 14 - PUB, INN
-￼ ￼
-Imagem 15 - Entrada do Palácio de Uruk, Palácio de Uruk
-￼ ￼
-Imagem 16 - Camara Real, Quarto de Gilgamesh
+￼Imagem 15 - Entrada do Palácio de Uruk, Palácio de Uruk
+￼Imagem 16 - Camara Real, Quarto de Gilgamesh
 
-//=========================
-// Locais do capitulo 2
-//=========================
-//=========================
-// Templos de Uruk
-// Montanha do Egalmah
-// Palácio de Egalmah
-// Trilha do Vale
-// Montanha do Vale
-// Chalé da Montanha
-// Acampamento do Pico do Vale
-// Rota do Cedro
-// Montanha do Cedro
-// Floresta do Cedro
-//	Ruínas do Cedro
-//	Gruta das Aranhas
-//========================
+	//=========================
+	// Locais do capitulo 2
+	//=========================
+	//=========================
+	// Templos de Uruk
+	// Montanha do Egalmah
+	// Palácio de Egalmah
+	// Trilha do Vale
+	// Montanha do Vale
+	// Chalé da Montanha
+	// Acampamento do Pico do Vale
+	// Rota do Cedro
+	// Montanha do Cedro
+	// Floresta do Cedro
+	//	Ruínas do Cedro
+	//	Gruta das Aranhas
+	//========================
 
 ￼
 Imagem 17 - Modelo do mapa Templos de Uruk
-
-￼
 Imagem 18 - Entrada dos Templos de Uruk
-
-￼ ￼
 Imagem 19 - Templos de Shamash e Templo de Ishtar
-
-￼
 Imagem 20 - Templo de Anu
-
-
-￼
 Imagem 21 - Montanha do Egalmah 
-
-￼
 Imagem 22 - Montanha do Egalmah - Area 1
-
-￼
 Imagem 23 - Montanha do Egalmah - Area 2
-
-￼
 Imagem 24 - Montanha do Egalmah - Area 3
-
-￼
 Imagem 24 - Montanha do Egalmah - Area 4
-￼ ￼
-Imagem 25 - Montanha do Egalmah - Area 5( Esquerda) e Area 6 (Direita)
-
-￼ ￼
+￼Imagem 25 - Montanha do Egalmah - Area 5( Esquerda) e Area 6 (Direita)
 magem 26 - Montanha do Egalmah - Area 7( Esquerda) e Area 8 (Direita)
-
-￼ ￼
 magem 27 - Montanha do Egalmah - Area 9( Esquerda) e Area 10 (Direita)
-
-
-￼
 Imagem 28 - Palácio do Egalmah
-
-￼	￼
 Imagem 30 - Entrada do palácio(esquerda), Sala 1 (Direita)
-
-￼ ￼
 Imagem 31 - Salão principal (Esquerda), INN (Direita)
-
-￼ ￼
 Imagem 32 - Loja de Itens (Esquerda), Camara Real (Direita)
-
-￼ ￼
 Imagem 33 - Escadaria 1 (Esquerda), Escadaria 2 (Direita)
-
-￼ ￼
 Imagem 34 - Escadaria 3 (Esquerda), Topo da Torre (Direita)
-
-￼
 Imagem 35 - Trilha do vale
-
-￼
 Imagem 36 - Area1
-
-￼ ￼
 Imagem 37 - Area2 (esquerda), Area3 (direita)
-
-￼ ￼
 Imagem 38 - Area4 (esquerda), Area5 (direita)
-
-￼ ￼
 Imagem 39 - Area6 (esquerda), Area7 (direita)
 ￼
 
+	//=========================
+	// Locais do capitulo 3
+	//=========================
 
-￼
-￼
+	//=========================
+	// Palácio de Anu
+	// Fenda do Vale
+	// Eufrates
+	// Netherworld
+	//	Palácio de Ereshkigal
+	//=========================
 
+	￼
 
-￼
-
-￼
-
-//=========================
-// Locais do capitulo 3
-//=========================
-
-//=========================
-// Palácio de Anu
-// Fenda do Vale
-// Eufrates
-// Netherworld
-//	Palácio de Ereshkigal
-//=========================
-
-￼
-
-//=========================
-// Locais do capitulo 4
-//=========================
+	//=========================
+	// Locais do capitulo 4
+	//=========================
 
 
-//=========================
-// Babilônia
-// 	Torre do Céu
-// 	A Biblioteca
-// Gormet
-//	Calabouço Selado
-// Prisão de Troma
-// Rota de Troma
-// Fossos Basílicos
-//=========================
+	//=========================
+	// Babilônia
+	// 	Torre do Céu
+	// 	A Biblioteca
+	// Gormet
+	//	Calabouço Selado
+	// Prisão de Troma
+	// Rota de Troma
+	// Fossos Basílicos
+	//=========================
 
-//=========================
-// Locais do capitulo 5
-//=========================
+	//=========================
+	// Locais do capitulo 5
+	//=========================
 
-//=========================
-// Saqqara
-// 	Djoser
-// 		Complexo de Djoser
-// 		Calabouço de Imhotep
-// Cairo
-// 	Gizé
-//		Complexo de Gizé
-//	Quéops 
-// 		Complexo de Quéops
-//=========================
+	//=========================
+	// Saqqara
+	// 	Djoser
+	// 		Complexo de Djoser
+	// 		Calabouço de Imhotep
+	// Cairo
+	// 	Gizé
+	//		Complexo de Gizé
+	//	Quéops 
+	// 		Complexo de Quéops
+	//=========================
 
-//=========================
-// Locais do capitulo 6
-//=========================
+	//=========================
+	// Locais do capitulo 6
+	//=========================
 
-//=========================
-// Cemitério de Toga
-// 	Trilha do Netherworld
-// Netherworld
-//	Palácio de Ereshkigal
-//	Vale das Sombras
-//	Salão dos mortos
-//=========================
+	//=========================
+	// Cemitério de Toga
+	// 	Trilha do Netherworld
+	// Netherworld
+	//	Palácio de Ereshkigal
+	//	Vale das Sombras
+	//	Salão dos mortos
+	//=========================
 
-//=========================
-// Locais do capitulo 7
-//=========================
+	//=========================
+	// Locais do capitulo 7
+	//=========================
 
-//=========================
-// Pico do Paraíso
-// 	Palácio Divino
-// Cidadela
-// Trilha sagrada
-// O Bortumenal
-//=========================
+	//=========================
+	// Pico do Paraíso
+	// 	Palácio Divino
+	// Cidadela
+	// Trilha sagrada
+	// O Bortumenal
+	//=========================
 
-//=========================
-// Locais do capitulo 8
-//=========================
+	//=========================
+	// Locais do capitulo 8
+	//=========================
 
-//=========================
-// Torre do Céu
-// 	Topo do Mundo
-// 	Casa de Shamash
-//=========================
-Itens
+	//=========================
+	// Torre do Céu
+	// 	Topo do Mundo
+	// 	Casa de Shamash
+	//=========================
 
-Itens de Cura
-Nome
-Tipo
-Valor
-Descrição
-Imagem
-Pão Sírio
-Consumível fora de batalha
-20
-Pão integral com sementes ricas em Omega3. Restaura 250 pontos de vida de um personagem.
-￼
-Queijo
-Consumível fora de batalha
-50
-Queijo de ovelha com sementes ricas em Omega3. Restaura 500 pontos de vida de um personagem.
-￼
-Elixir Pequeno
-Consumível
-150
-Restaura 500 pontos de vida de um personagem
-￼
-Elixir Médio
-Consumível
-800
-Restaura 2500 pontos de vida de um personagem
-￼
-Elixir Grande
-Consumível
-1500
-Restaura 5000 pontos de vida de um personagem
-￼
-Ultralixir
-Consumível
-5000
-Restaura o máximo de vida de um personagem
-￼
-Salmão
-Consumível fora de batalha
-250
-Restaura 1500 pontos de vida de um personagem
-￼
-Maçã da Deusa
-Consumível fora de batalha
-1000
-Restaura 5000 pontos de vida de um personagem
-￼
-Pão do Céu
-Consumível fora de batalha
-5000
-Restaura completamente a vida de um personagem
-￼
-Suco de laranja
-Consumível fora de batalha
- 50
-Restaura 50 pontos de energia de um personagem
-￼
-Pote de Mel
-Consumível fora de batalha
-250
-Restaura 150 pontos de energia de um personagem
-￼
-Cerveja
-Consumível fora de batalha
-500
-Restaura 500 pontos de energia de um personagem
-￼
-Gota Divina
-Consumível fora de batalha
- 1500
-Restaura completamento os pontos de energia de um personagem
+## Itens
 
-Cesta de pães
-Consumível fora de batalha
-120
-Restaura 250 pontos de vida de todos   os personagens.
-￼
-Cesta de maçãs
-Consumível fora de batalha
- 500
-Restaura 500 pontos de vida de todos   os personagens.
-￼
-Bolo de Carne
-Consumível fora de batalha
- 2000
-Restaura 1500 pontos de vida de todos   os personagens.
-￼
-Frutapão Divino
-Consumível fora de batalha
-6000
-Restaura 5000 pontos de vida de todos   os personagens.
-￼
-Jarra de Suco
-Consumível fora de batalha
-200
-Restaura 50 pontos de energia de todos   os personagens.
-￼
-Vinho
-Consumível fora de batalha
- 500
-Restaura 150 pontos de energia de todos os personagens.
+### Itens de Cura
+
+|Nome|Tipo|Valor|Descrição|Imagem|
+|----|----|-----|---------|------|
+|Pão Sírio|Consumível fora de batalha|20|Pão integral com sementes ricas em Omega3. Restaura 250 pontos de vida de um personagem.|imagem|
+|Queijo|Consumível fora de batalha|50|Queijo de ovelha com sementes ricas em Omega3. Restaura 500 pontos de vida de um personagem.|
+|Elixir Pequeno|Consumível|150|Restaura 500 pontos de vida de um personagem|imagem|
+|Elixir Médio|Consumível|800|Restaura 2500 pontos de vida de um personagem|imagem|
+|Elixir Grande|Consumível|1500|Restaura 5000 pontos de vida de um personagem|imagem|
+￼|Ultralixir|Consumível|5000|Restaura o máximo de vida de um personagem|imagem|
+|Salmão|Consumível fora de batalha|250|Restaura 1500 pontos de vida de um personagem|imagem|
+￼|Maçã da Deusa|Consumível fora de batalha|1000|Restaura 5000 pontos de vida de um personagem|imagem|
+|Pão do Céu|Consumível fora de batalha|5000|Restaura completamente a vida de um personagem|imagem|
+|Suco de laranja|Consumível fora de batalha|50|Restaura 50 pontos de energia de um personagem|imagem|
+|Pote de Mel|Consumível fora de batalha|250|Restaura 150 pontos de energia de um personagem|imagem|
+|Cerveja|Consumível fora de batalha|500|Restaura 500 pontos de energia de um personagem|imagem|
+￼|Gota Divina|Consumível fora de batalha|1500|Restaura completamento os pontos de energia de um personagem|imagem|
+|Cesta de pães|Consumível fora de batalha|120|Restaura 250 pontos de vida de todos os personagens.|imagem|
+|Cesta de maçãs|Consumível fora de batalha|500|Restaura 500 pontos de vida de todos os personagens.|imagem|
+￼|Bolo de Carne|Consumível fora de batalha|2000|Restaura 1500 pontos de vida de todos os personagens.|imagem|
+|Frutapão Divino|Consumível fora de batalha|6000|Restaura 5000 pontos de vida de todos os personagens.|imagem|
+|Jarra de Suco|Consumível fora de batalha|200|Restaura 50 pontos de energia de todos os personagens.|imagem|
+|Vinho|Consumível fora de batalha|500|Restaura 150 pontos de energia de todos os personagens.|imagem|
 ￼
 Hidromel
 Consumível fora de batalha
