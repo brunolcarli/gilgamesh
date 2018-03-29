@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-<p color="red"><b><i>Documento em construção</i></b></p>
+<p style="color:red" align="center"><b><i>Documento em construção</i></b></p>
 # Sumário
 
 - Prefácio
