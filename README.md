@@ -736,10 +736,10 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 
 ### Itens de Cura
 
-|Nome|Tipo|Valor|Descrição|
-|----|----|-----|---------|
-|Pão Sírio|Consumível fora de batalha|20|Pão integral com sementes ricas em Omega3. Restaura 250 pontos de vida de um personagem|
-|Queijo|Consumível fora de batalha|50|Queijo de ovelha com sementes ricas em Omega3. Restaura 500 pontos de vida de um personagem|
+| Nome | Tipo | Valor | Descrição |
+| ---- | ---- | ----- | --------- |
+| Pão Sírio | Consumível fora de batalha | 20 | Pão integral com sementes ricas em Omega3 restaura 250 pontos de vida de um personagem |
+| Queijo | Consumível fora de batalha | 50 | Queijo de ovelha com sementes ricas em Omega3 restaura 500 pontos de vida de um personagem |
 |Elixir Pequeno|Consumível|150|Restaura 500 pontos de vida de um personagem|
 |Elixir Médio|Consumível|800|Restaura 2500 pontos de vida de um personagem|
 |Elixir Grande|Consumível|1500|Restaura 5000 pontos de vida de um personagem|
