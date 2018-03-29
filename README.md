@@ -2066,8 +2066,8 @@ Habilidades
 //TODO: adicionar tabela de habilidades de cada personagem principal
 Subquests
 
-	O jogo apresentará um sistema de subquests, que serão missões alternativas de caráter não obrigatório, o que implica que o cumprimento ou não cumprimento destes eventos não influenciarão no enredo do jogo.
-	O sistema de caçador de recompensas será definido como principal sistema de subquests, tendo como objetivo caçar um alvo determinado e após eliminá-lo receber a recompensa pelo serviço. Nos PUBs das cidades, vilas e condados haverá um quadro de procurados listando os alvos disponíveis para o jogador escolher. Tendo escolhido o alvo, o jogador deverá conversar com o postador do cartaz para descobrir a localização do alvo, que somente estará disponível para caçada após confirmá-la com o postador. Após eliminar o alvo, o jogador deverá retornar até o postador para receber sua recompensa.
+O jogo apresentará um sistema de subquests, que serão missões alternativas de caráter não obrigatório, o que implica que o cumprimento ou não cumprimento destes eventos não influenciarão no enredo do jogo.
+O sistema de caçador de recompensas será definido como principal sistema de subquests, tendo como objetivo caçar um alvo determinado e após eliminá-lo receber a recompensa pelo serviço. Nos PUBs das cidades, vilas e condados haverá um quadro de procurados listando os alvos disponíveis para o jogador escolher. Tendo escolhido o alvo, o jogador deverá conversar com o postador do cartaz para descobrir a localização do alvo, que somente estará disponível para caçada após confirmá-la com o postador. Após eliminar o alvo, o jogador deverá retornar até o postador para receber sua recompensa.
 
 
 ￼
@@ -2148,20 +2148,6 @@ Cutscenes
 Cronograma
 
 //TODO reelaborar o cronograma
-
-Relatório Mensal de atividades realizadas:
-
-Março/2017
-	Elaborou-se a concepção do jogo, sua idéia, tradução da história publicada online por Kovacs & Carnahan, adaptação parcial do roteiro, definição de um método de processo e desenvolvimento (prototipação) fundamentando-se em Pressman (2010) e Sato (2010) para a escolha desta metodologia. Elaboração de um cronograma de desenvolvimento, destacando as principais fases do desenvolvimento do produto com previsão de termino em 10 meses. Concepção das mecânicas básicas do jogo, personagens, listas de itens. Concepção parcial dos inimigos e modelagem parcial das regiões do jogo. Conclui-se o mês de Março com eficiência e rendimento positivo.
-
-Abril/2017
-	Foram desenvolvidos mapas para regiões do segundo capítulo (com exceção da Montanha do Vale, Rota do Cedro, Montanha do Cedro e Floresta do Cedro). Definiu-se imagens de NPCs do jogo. Reelaboração do cronograma. Este mês não se demonstrou tão produtivo, buscar-se-á maior empenho nos próximos meses.
-
-Fevereiro/2018
-	O cronograma anterior falhou, não foi possível desenvolver grande parte do que o jogo promete, a equipe anterior não demonstrou empenho e interesse, ressalta-se aqui a necessidade de um bom pixel Artist para que o game possa alcançar seu máximo potencial.
-
-Março/2018
-	Devido a não disponibilidade de um artista para arte original, optou-se pela utilização de recursos de terceiros cuja licença de uso seja de atribuição livre e gratuita para fins comerciais e não comerciais. Foi realizado a tabela com os ícones do jogo,
 
 Anexos
 
