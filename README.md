@@ -528,135 +528,24 @@ A imagem dos personagens foi elaborada no criador de imagens do RPG Maker MV, pl
 
 
 ## Personagens Não Jogáveis da história (NPC):
-Nome
-Pai do Alfr
+
+|Nome|Altura|Local de Nascimento|Ocupação|Classe|Descrição|
+|----|------|-------------------|--------|------|---------|
+|Pai do Alfr|1,70 metros|Uruk|Fazendeiro|NPC|O velho pai do caçador Alfr, aparece na história para dar conselhos à seu filho. Manda-o para Uruk conhecer Gilgamesh, nunca recusa ceder o espaço de seu lar para que você aventureiro possa descansar.|
+
+|Shamat|1,59|Uruk|Rameira|Item Chave|Shamat é uma prostituta entregue por Gilgamesh para que Alfr leve-a até onde Enkidu se encontra nas colinas para que seduza a fera. Shamat ensina Enkidu os segredos dos homens.|
+
+|Ninsun|Desconhecido|Desconhecido|Deusa|A mãe de Gilgamesh, sábia Deusa dos homens e guia iluminada do herói da lenda, responsável pelas duas partes deus de Gilgamesh, concedendo-lhe a força de um touro indomável.|
+
+|Ishtar|Desconhecido|Desconhecido|Deusa|Deusa|A belíssima Deusa Ishtar, da qual aqueles cujo lançam o olhar caem em um eterno e profundo amor. Senhora da fertilidade, do amor, do sexo e da guerra, deleita-se no prazer dos homens porém seu orgulho é ferido ao ser rejeitada por Gilgamesh, jurando destruir a vida do herói.|
+
+|Anu|Desconhecido|Desconhecido|Deus|Deus|Anu é o senhor dos céus, dos espíritos e das constelações, sábio dentre os deuses, pai de Ninsun e Ishtar, é furioso e capaz de mudar a ordem das coisas com uma simples piscadela sendo o mais forte dentre todos os deuses.|
+
+|Shamash|Desconhecido|Desconhecido|Grande Deus|Deus|Shamash é o Deus dos Deuses perante a Terra, o glorioso Sol que resplandece e enche o universo de luz e força. Shamash é o supremo Deus sumério a qual todos clamam.|
 ￼
-Altura
-1,70 metros
-Local de Nascimento
-Uruk
-Ocupação
-Fazendeiro
-Classe
-Fazendeiro
-Descrição
-O velho pai do caçador Alfr, aparece na história para dar conselhos à seu filho. Manda-o para Uruk conhecer Gilgamesh, nunca recusa ceder o espaço de seu lar para que você aventureiro possa descansar.
-
-Nome
-Shamat
+|Enlil|Desconhecido|Desconhecido|Deus|Enlil o senhor sobre a montanha, tem agido de maneira impetuosa e estranha por motivos desconhecidos, enviando diversas dificuldades no caminho de Gilgamesh e tentando corromper os outros deuses.|
 ￼
-Altura
-1,59
-Local de Nascimento
-Uruk
-Ocupação
-Rameira
-Classe
-Item chave
-Descrição
-Shamat é uma prostituta entregue por Gilgamesh para que Alfr leve-a até onde Enkidu se encontra nas colinas para que seduza a fera. Shamat ensina Enkidu os segredos dos homens.
-
-
-
-
-Nome
-Ninsun
-￼
-Altura
-Desconhecido
-Local de Nascimento
-Desconhecido
-Ocupação
-Deusa
-Classe
-Deusa
-Descrição
-A mãe de Gilgamesh, sábia Deusa dos homens e guia iluminada do herói da lenda, responsável pelas duas partes deus de Gilgamesh, concedendo-lhe a força de um touro indomável.
-￼￼
-￼￼
-
-Nome
-Ishtar
-￼
-Altura
-Desconhecido
-Local de Nascimento
-Desconhecido
-Ocupação
-Deusa
-Classe
-Deusa
-Descrição
-A belíssima Deusa Ishtar, da qual aqueles cujo lançam o olhar caem em um eterno e profundo amor. Senhora da fertilidade, do amor, do sexo e da guerra, deleita-se no prazer dos homens porém seu orgulho é ferido ao ser rejeitada por Gilgamesh, jurando destruir a vida do herói.
-￼￼
-￼￼
-
-
-Nome
-Anu
-￼
-Altura
-Desconhecido
-Local de Nascimento
-Desconhecido
-Ocupação
-Deus
-Classe
-Deus
-Descrição
-Anu é o senhor dos céus, dos espíritos e das constelações, sábio dentre os deuses, pai de Ninsun e Ishtar, é furioso e capaz de mudar a ordem das coisas com uma simples piscadela sendo o mais forte dentre todos os deuses.
-￼￼
-
-Nome
-Shamash
-￼
-Altura
-Desconhecido
-Local de Nascimento
-Desconhecido
-Ocupação
-Grande Deus
-Classe
-Deus
-Descrição
-Shamash é o Deus dos Deuses perante a Terra, o glorioso Sol que resplandece e enche o universo de luz e força. Shamash é o supremo Deus sumério a qual todos clamam. 
-￼￼
-￼￼
-
-
-
-Nome
-Enlil
-￼
-Altura
-Desconhecido
-Local de Nascimento
-Desconhecido
-Ocupação
-Deus
-Classe
-Deus
-Descrição
-Enlil o senhor sobre a montanha, tem agido de maneira impetuosa e estranha por motivos desconhecidos, enviando diversas dificuldades no caminho de Gilgamesh e tentando corromper os outros deuses.
-￼￼
-￼￼
-
-
-
-Nome
-Ereshkigal
-￼
-Altura
-Desconhecido
-Local de Nascimento
-Desconhecido
-Ocupação
-Rainha do Netherworld
-Classe
-Deus
-Descrição
-Ereshkigal é a rainha do submundo, sentada sob seu trono ela cuida para que a alma dos que morreram permaneçam em paz nos salões do Netherworld.
-￼￼
+|Ereshkigal|Desconhecido|Desconhecido|Rainha do Netherworld|Deusa|Ereshkigal é a rainha do submundo, sentada sob seu trono ela cuida para que a alma dos que morreram permaneçam em paz nos salões do Netherworld.|
 
 Outros NPC’s:
 
