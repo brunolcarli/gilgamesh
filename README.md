@@ -23,7 +23,7 @@
 
 # Sumário
 
-Prefácio
+[Prefácio]
 Escopo do Projeto
 Objetivos
 Requisitos
@@ -36,14 +36,14 @@ Interface
 Cutscenes
 Cronograma
 Anexos
-Referências
+[Referências]
 
 
 
 
 
 
-## Prefácio:
+(## Prefácio:)
 
 Este documento descreve as características relativas ao desenvolvimento do jogo digital A Aventura de Gilgamesh como produto de software. Desta forma pretende-se elucidar os aspectos técnicos do processo comum de desenvolvimento e software. Esta primeira versão (1.0) é um esboço do projeto que deve ser seguido como orientação no processo de desenvolvimento. Também é objetivo deste documento servir como registro do processo de desenvolvimento do produto e descrição das características do software.
 
@@ -2229,7 +2229,7 @@ Avery resources and sprites (https://forums.rpgmakerweb.com/index.php?threads/av
 
 SumRndmDde <http://sumrndm.site>
 
-Referências
+(Referências)
 
 Literatura:
 
