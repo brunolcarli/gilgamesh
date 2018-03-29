@@ -1,5 +1,4 @@
-# Gilgamesh: Um conto épico
-<b>lol</b>
+<h1 align="center>"Gilgamesh: Um conto épico</h1>
 
 
 
@@ -44,7 +43,7 @@
 
 
 
-(## Prefácio:)
+## Prefácio:
 
 Este documento descreve as características relativas ao desenvolvimento do jogo digital A Aventura de Gilgamesh como produto de software. Desta forma pretende-se elucidar os aspectos técnicos do processo comum de desenvolvimento e software. Esta primeira versão (1.0) é um esboço do projeto que deve ser seguido como orientação no processo de desenvolvimento. Também é objetivo deste documento servir como registro do processo de desenvolvimento do produto e descrição das características do software.
 
