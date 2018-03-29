@@ -16,7 +16,12 @@
 <br/>
 <br/>
 
-<p style="color:#ff0000;" align="center"><b><i>Documento em construção</i></b></p>
+<h5 style="color:#ff0000;" align="center"><b><i>Documento em construção</i></b></h5>
+
+<br/>
+<hr>
+<br/>
+
 # Sumário
 
 - Prefácio
