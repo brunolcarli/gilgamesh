@@ -1,4 +1,5 @@
 # Gilgamesh: Um conto épico
+<b>lol</b>
 
 
 
@@ -23,20 +24,20 @@
 
 # Sumário
 
-[Prefácio]
-Escopo do Projeto
-Objetivos
-Requisitos
-História
-Gameplay
-Personagens
-Universo do jogo
-Inimigos
-Interface
-Cutscenes
-Cronograma
-Anexos
-[Referências]
+- Prefácio
+- Escopo do Projeto
+- Objetivos
+- Requisitos
+- História
+- Gameplay
+- Personagens
+- Universo do jogo
+- Inimigos
+- Interface
+- Cutscenes
+- Cronograma
+- Anexos
+- Referências
 
 
 
