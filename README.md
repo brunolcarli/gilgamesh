@@ -108,11 +108,11 @@ A utilização da Game Engine (Motor de Jogo) RPG Maker MV facilitará o process
 
 ### EPOPEIA DE GILGAMESH
 
-* Original: *
-* Translated by Maureen Gallery Kovacs Electronic Edition by Wolf Carnahan, I998 *
+###### Original:
+###### Translated by Maureen Gallery Kovacs Electronic Edition by Wolf Carnahan, I998
 
-Tradução e adaptação:
-Bruno L. Carli, 2017
+<h6 align="right">Tradução e adaptação:
+Bruno L. Carli, 2017</h6>
 
 
 
