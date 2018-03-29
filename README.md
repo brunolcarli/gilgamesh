@@ -523,55 +523,11 @@ A imagem dos personagens foi elaborada no criador de imagens do RPG Maker MV, pl
 |----|------|--------------------|--------|------|---------|-------|-----|
 |Gilgamesh|1,90|Uruk|Rei de Uruk|Herói|O rei de Uruk e protagonista da epopéia, Filho da Deusa Ninsun com o pastor mortal Lugalbanda, por estes motivos Gilgamesh é dois terços deus e um terço homem. O herói da história passa por várias aventuras  e perigos desafiando os deuses de sua terra. É Bravo, porém sincero. É também o mais belo e poderoso de Uruk.|![Gigamesh Sprites](https://uploaddeimagens.com.br/images/001/350/718/original/Gilgamesh.png?1522301761)|![Gilgamesh Face](https://uploaddeimagens.com.br/images/001/350/720/full/Gilgamesh.png?1522301893)|
 ￼￼
+|Enkidu|1,90|Floresta do Cedro|Escudeiro de Gilgamesh|Fera|Enkidu foi criado pelos deuses à pedido do povo de Uruk, ele é um zikru (um semelhante) de Gilgamesh, enviado para que pudesse acalmar distrair Gilgamesh. Somente assim o rei aprenderia seu verdadeiro oficio.| | |
 ￼￼
-
-Nome
-Enkidu
-￼
-Altura
-1,90
-Local de Nascimento
-Floresta do Cedro
-Ocupação
-Escudeiro de Gilgamesh
-Classe
-Guerreiro
-Descrição
-Enkidu foi criado pelos deuses à pedido do povo de Uruk, ele é um zikru (um semelhante) de Gilgamesh, enviado para que pudesse acalmar distrair Gilgamesh. Somente assim o rei aprenderia seu verdadeiro oficio.
+|Alfr|1,75||Colinas do vale de Uruk|Caçador|Arqueiro|Alfr é um personagem fictício representando o papel do caçador que identifica Enkidu no bosque. Passa então a ajudar Gilgamesh em suas jornadas. Alfr é um pouco covarde mas um exímio atirador de arco e flecha. Leal e sincero, mora com seu velho pai em uma pequena casa nas colinas do vale, próximo ao bosque.| | |
 ￼￼
-￼￼
-
-
-Nome
-Alfr
-￼
-Altura
-1,75
-Local de Nascimento
-Colinas do vale de Uruk
-Ocupação
-Caçador
-Classe
-Arqueiro
-Descrição
-Alfr é um personagem fictício representando o papel do caçador que identifica Enkidu no bosque. Passa então a ajudar Gilgamesh em suas jornadas. Alfr é um pouco covarde mas um exímio atirador de arco e flecha. Leal e sincero, mora com seu velho pai em uma pequena casa nas colinas do vale, próximo ao bosque.
-￼￼
-￼￼
-
-
-Nome
-Skulda
-￼
-Altura
-1,63
-Local de Nascimento
-Desconhecido
-Ocupação
-Serva e Protetora de Gilgamesh
-Classe
-Feiticeira
-Descrição
-Uma feiticeira que diz ser designada pelos deuses para empenhar-se em ajudar Gilgamesh à cumprir seu destino. Misteriosa e sarcástica, porém extremamente sábia. Possui feitiços mágicos destruidores capazes de causar um estrago enorme em seus inimigos.
+|Skulda|1,63|Desconhecido|Serva e Protetora de Gilgamesh|Feiticeira|Uma feiticeira que diz ser designada pelos deuses para empenhar-se em ajudar Gilgamesh à cumprir seu destino. Misteriosa e sarcástica, porém extremamente sábia. Possui feitiços mágicos destruidores capazes de causar um estrago enorme em seus inimigos.| | |
 ￼￼
 ￼￼
 
