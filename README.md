@@ -736,115 +736,46 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 
 ### Itens de Cura
 
-|Nome|Tipo|Valor|Descrição|Imagem|
-|----|----|-----|---------|------|
-|Pão Sírio|Consumível fora de batalha|20|Pão integral com sementes ricas em Omega3. Restaura 250 pontos de vida de um personagem.|imagem|
-|Queijo|Consumível fora de batalha|50|Queijo de ovelha com sementes ricas em Omega3. Restaura 500 pontos de vida de um personagem.|
-|Elixir Pequeno|Consumível|150|Restaura 500 pontos de vida de um personagem|imagem|
-|Elixir Médio|Consumível|800|Restaura 2500 pontos de vida de um personagem|imagem|
-|Elixir Grande|Consumível|1500|Restaura 5000 pontos de vida de um personagem|imagem|
-￼|Ultralixir|Consumível|5000|Restaura o máximo de vida de um personagem|imagem|
-|Salmão|Consumível fora de batalha|250|Restaura 1500 pontos de vida de um personagem|imagem|
-￼|Maçã da Deusa|Consumível fora de batalha|1000|Restaura 5000 pontos de vida de um personagem|imagem|
-|Pão do Céu|Consumível fora de batalha|5000|Restaura completamente a vida de um personagem|imagem|
-|Suco de laranja|Consumível fora de batalha|50|Restaura 50 pontos de energia de um personagem|imagem|
-|Pote de Mel|Consumível fora de batalha|250|Restaura 150 pontos de energia de um personagem|imagem|
-|Cerveja|Consumível fora de batalha|500|Restaura 500 pontos de energia de um personagem|imagem|
-￼|Gota Divina|Consumível fora de batalha|1500|Restaura completamento os pontos de energia de um personagem|imagem|
-|Cesta de pães|Consumível fora de batalha|120|Restaura 250 pontos de vida de todos os personagens|imagem|
-|Cesta de maçãs|Consumível fora de batalha|500|Restaura 500 pontos de vida de todos os personagens|imagem|
-￼|Bolo de Carne|Consumível fora de batalha|2000|Restaura 1500 pontos de vida de todos os personagens|imagem|
-|Frutapão Divino|Consumível fora de batalha|6000|Restaura 5000 pontos de vida de todos os personagens|imagem|
-|Jarra de Suco|Consumível fora de batalha|200|Restaura 50 pontos de energia de todos os personagens|imagem|
-|Vinho|Consumível fora de batalha|500|Restaura 150 pontos de energia de todos os personagens|imagem|
+|Nome|Tipo|Valor|Descrição|
+|----|----|-----|---------|
+|Pão Sírio|Consumível fora de batalha|20|Pão integral com sementes ricas em Omega3. Restaura 250 pontos de vida de um personagem|
+|Queijo|Consumível fora de batalha|50|Queijo de ovelha com sementes ricas em Omega3. Restaura 500 pontos de vida de um personagem|
+|Elixir Pequeno|Consumível|150|Restaura 500 pontos de vida de um personagem|
+|Elixir Médio|Consumível|800|Restaura 2500 pontos de vida de um personagem|
+|Elixir Grande|Consumível|1500|Restaura 5000 pontos de vida de um personagem|
+￼|Ultralixir|Consumível|5000|Restaura o máximo de vida de um personagem|
+|Salmão|Consumível fora de batalha|250|Restaura 1500 pontos de vida de um personagem|
+￼|Maçã da Deusa|Consumível fora de batalha|1000|Restaura 5000 pontos de vida de um personagem|
+|Pão do Céu|Consumível fora de batalha|5000|Restaura completamente a vida de um personagem|
+|Suco de laranja|Consumível fora de batalha|50|Restaura 50 pontos de energia de um personagem|
+|Pote de Mel|Consumível fora de batalha|250|Restaura 150 pontos de energia de um personagem|
+|Cerveja|Consumível fora de batalha|500|Restaura 500 pontos de energia de um personagem|
+￼|Gota Divina|Consumível fora de batalha|1500|Restaura completamento os pontos de energia de um personagem|
+|Cesta de pães|Consumível fora de batalha|120|Restaura 250 pontos de vida de todos os personagens|
+|Cesta de maçãs|Consumível fora de batalha|500|Restaura 500 pontos de vida de todos os personagens|
+￼|Bolo de Carne|Consumível fora de batalha|2000|Restaura 1500 pontos de vida de todos os personagens|
+|Frutapão Divino|Consumível fora de batalha|6000|Restaura 5000 pontos de vida de todos os personagens|
+|Jarra de Suco|Consumível fora de batalha|200|Restaura 50 pontos de energia de todos os personagens|
+|Vinho|Consumível fora de batalha|500|Restaura 150 pontos de energia de todos os personagens|
+|Hidromel|Consumível fora de batalha|2000|Restaura 500 pontos de energia de todos os personagens|
+|Lágrimas de Aruru|Consumível fora de batalha|6000|Restaura completamente os pontos de energia de todos os personagens|
+|Ambrosia|Consumível fora de batalha|10000|Restaura completamente os pontos de vida e energia de um personagem|
+￼|ManjarConsumível fora de batalha|25000|Restaura completamente os pontos de vida e  energia de todos  os personagens|
+￼|Chá de Losna|Consumível|50|Cura confusão|
+￼|Chá de Canela|Consumível|50|Cura paralisia|
+|Maçã|Consumível fora de batalha|20|Restaura 50 pontos de vida de um personagem|
+￼|Mel de Abelha|Consumível fora de batalha|25|Restaura 10 pontos de energia de um personagem|
+￼|Óleo Solar|Consumível em batalha|1000|Invoca as forças masculinas aumentando a força física do personagem|
+￼|Óleo Lunar|Consumível em batalha|1000|Invoca as forças femininas aumentando a força magica do personagem|
+￼|Óleo de Proteção|Consumível em batalha|1000|Aumenta temporariamente a defesa física do personagem|
+￼|Óleo de Patchuli|Consumível em batalha||1000|Aumenta temporariamente a defesa magica do personagem|
+￼|Óleo de Anis|Consumível em batalha|5000|Aumenta temporariamente a sorte do personagem|
+￼|Óleo de Madressilva|Consumível|50||Cura envenenamento|
+￼|Damiana|Consumível|50|Cura miopia|
+￼|Estoraque|Consumível|250|Cura TDAH|
+￼|Pedra vital|Consumível|1000|Cura Nocaute|
 ￼
-Hidromel
-Consumível fora de batalha
- 2000
-Restaura 500 pontos de energia de todos   os personagens.
-￼
-Lágrimas de Aruru
-Consumível fora de batalha
-6000
-Restaura completamente os pontos de energia de todos   os personagens.
-￼
-Ambrosia
-Consumível fora de batalha
-10000
-Restaura completamente os pontos de vida e  energia de um personagem.
-￼
-Manjar
-Consumível fora de batalha
-25000
-Restaura completamente os pontos de vida e  energia de todos  os personagens.
-￼
-Chá de Losna
-Consumível
-50
-Cura confusão
-￼
-Chá de Canela
-Consumível
-50
-Cura paralisia 
-
-Maçã
-Consumível fora de batalha
-10
-Restaura 50 pontos de vida de um personagem
-￼
-Mel de Abelha
-Consumível fora de batalha
- 25
-Restaura 10 pontos de energia de um personagem
-￼
-Óleo Solar
-Consumível em batalha
-1000
-Invoca as forças masculinas aumentando a força física do personagem
-￼
-Óleo Lunar
-Consumível em batalha
-1000
-Invoca as forças femininas aumentando a força magica do personagem
-￼
-Óleo de Proteção
-Consumível em batalha
-1000
-Aumenta temporariamente a defesa física do personagem
-￼
-Óleo de Patchuli
-Consumível em batalha
-1000
-Aumenta temporariamente a defesa magica do personagem
-￼
-Óleo de Anis
-Consumível em batalha
-5000
-Aumenta temporariamente a sorte do personagem
-￼
-Óleo de Madressilva
-Consumível
-50
-Cura envenenamento
-￼
-Damiana
-Consumível
-50
-Cura miopia
-￼
-Estoraque
-Consumível
-250
-Cura TDAH 
-￼
-Pedra vital
-Consumível
-1000
-Cura Nocaute
-￼
-
-Itens Mágicos
+## Itens Mágicos
 Nome
 Valor
 Descrição
