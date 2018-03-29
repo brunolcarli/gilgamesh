@@ -1,10 +1,10 @@
 <h1 align="center">Gilgamesh: Um conto épico</h1>
-
+<br/>
 <h2 align="center"> Game Design Document</h2>
-
+<br/>
 <h3 align="center"> Versão 0.9</h3>
-
-
+<br/>
+<br/>
 <h4 align="center">Autor:</h4>
 
 <h6 align="center">Bruno Luvizotto Carli</h6>
