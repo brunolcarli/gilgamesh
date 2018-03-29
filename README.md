@@ -484,6 +484,7 @@ Bruno L. Carli, 2017</h6>
 
 //TODO continuar historia
 
+<hr>
 
 ## Gameplay - Mecânicas
 
@@ -776,132 +777,45 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 | Pedra vital | Consumível | 1000 | Cura Nocaute |
 
 ## Itens Mágicos
-Nome
-Valor
-Descrição
-Imagem
-Lavanda
-100
-Planta possuidora dos elementos do Ar
-￼
-Mirra
-100
-Planta possuidora dos elementos da Água
-￼
-Almíscar
-100
-Planta possuidora dos elementos do Fogo
-￼
-Narciso
-100
-Planta possuidora dos elementos da Terra
-￼
-Cravos-da-índia
-150
-Planta possuidora de poderes curativos
+
+| Nome | Tipo | Valor | Descrição |
+| ---- | ---- | ----- | --------- |
+|Lavanda|100|Planta possuidora dos elementos do Ar|
+￼|Mirra|100|Planta possuidora dos elementos da Água|
+￼|Almíscar||100|Planta possuidora dos elementos do Fogo|
+￼|Narciso|100|Planta possuidora dos elementos da Terra|
+￼|Cravos-da-índia|150|Planta possuidora de poderes curativos|
 ￼
 
+## Itens de síntese e comercializáveis
 
-
-Itens de síntese e comercializáveis
-Nome
-Valor
-Descrição
-Imagem
-Visco
-100
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
+| Nome | Tipo | Valor | Descrição |
+| ---- | ---- | ----- | --------- |
+|Visco||100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Algália||100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Olíbano|100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Cipreste|100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Noz-moscada|150|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Benjoim|250|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Cânfora|250|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Sangue-de-dragão|250|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Orégano-de-Creta|250|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Cedro|300|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Ametista|400|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Agua-Marinha|500|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Jade|600|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Lapis-Lazuli|1000|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Presas Afiadas|200|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Garras Afiadas|400|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Raizes de Cedro|300|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Raizes de Carvalho|500|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Bolotas de Carvalho|400|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Madeira de Cipreste|300|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Mythril|5000|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Ferro Puro|400|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+￼|Madeira de Carvalho|1000|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
 ￼
-Algália
-100
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Olíbano
-100
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Cipreste
-100
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Noz-moscada
-150
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Benjoim
-250
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Cânfora
-250
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Sangue-de-dragão
-250
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Orégano-de-Creta
-250
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Cedro
-300
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Ametista
-400
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Agua-Marinha
-500
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Jade
-600
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Lapis-Lazuli
-1000
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Presas Afiadas
-200
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Garras Afiadas
-400
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Raizes de Cedro
-300
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Raizes de Carvalho
-500
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Bolotas de Carvalho
-400
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Madeira de Cipreste
-300
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Mythril
-5000
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Ferro Puro
-400
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-Madeira de Carvalho
-1000
-Especiaria que pode ser utilizada em receitas ou vendida no mercado
-￼
-
-Armas e Equipamentos
+## Armas e Equipamentos
 Nome
 Valor
 Descrição
