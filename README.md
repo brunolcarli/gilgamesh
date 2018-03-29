@@ -540,49 +540,18 @@ A imagem dos personagens foi elaborada no criador de imagens do RPG Maker MV, pl
 |Enlil|Desconhecido|Desconhecido|Deus|NPC|Enlil o senhor sobre a montanha, tem agido de maneira impetuosa e estranha por motivos desconhecidos, enviando diversas dificuldades no caminho de Gilgamesh e tentando corromper os outros deuses.|
 |Ereshkigal|Desconhecido|Desconhecido|Rainha do Netherworld|NPC|Ereshkigal é a rainha do submundo, sentada sob seu trono ela cuida para que a alma dos que morreram permaneçam em paz nos salões do Netherworld.|
 
-Outros NPC’s:
+### Outros NPC’s:
 
-Nome
-Vendedor de Item
-￼
-Descrição
-Comerciante responsável pela venda de itens consumíveis. Localizado nas lojas das cidades.
-￼￼
-
-Nome
-Comerciante
-￼
-Descrição
-Comerciante de itens consumíveis que pode aparecer em áreas do jogo como acampamentos, bosques e entradas de calabouços.
-￼￼
-
-Nome
-Atendente do INN
-￼
-Descrição
-Recepcionista localizado nas pousadas do jogo, responsável por acomodar os heróis e cobrar a taxa da pousada.
-￼￼
+|Nome|Descrição|
+|----|---------|
+|Vendedor de Item|Comerciante responsável pela venda de itens consumíveis. Localizado nas lojas das cidades.|
+|Comerciante|Comerciante de itens consumíveis que pode aparecer em áreas do jogo como acampamentos, bosques e entradas de calabouços.|
+￼|Atendente do INN|Recepcionista localizado nas pousadas do jogo, responsável por acomodar os heróis e cobrar a taxa da pousada.|
+|Ferreiro|O ferreiro é o comerciante responsável pela venda de Armas, Equipamentos e Acessórios, localizado nas Lojas de Armas e Equipe nas cidades e vilas.|
+|Herbalista|Comerciante de ervas, incensos e óleos utilizados por feiticeiros em seus experimentos mágicos. Localizado no Covenstead das cidades do jogo.|
+|Macerador|Responsável por realizar as sínteses de ítens. Localizado nos Covensteads das cidades.|
 
 
-Nome
-Ferreiro
-￼
-Descrição
-O ferreiro é o comerciante responsável pela venda de Armas, Equipamentos e Acessórios, localizado nas Lojas de Armas e Equipe nas cidades e vilas.
-￼￼
-
-Nome
-Herbalista
-￼
-Descrição
-Comerciante de ervas, incensos e óleos utilizados por feiticeiros em seus experimentos mágicos. Localizado no Covenstead das cidades do jogo.
-￼￼
-
-Nome
-Macerador
-￼
-Descrição
-Responsável por realizar as sínteses de ítens. Localizado nos Covensteads das cidades.
 ￼￼
 
 NPCs com função unicamente de exibir mensagens ao jogador:
