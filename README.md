@@ -591,13 +591,14 @@ Os mapas serão representados neste documento através de diagramas de Caso de U
 O primeiro mapa do jogo é o Bosque das Colinas, nele acontecerá a cena de Alfr se deparando com Enkidu no riacho, então o jogador tomará posse do controle sobre Alfr para guiá-lo pelo bosque até a saída para o mapa, em direção a sua casa.
 
 ￼
-Imagem 3 - Modelo do mapa da região do Bosque das Colinas
+|Imagem 3 - Modelo do mapa da região do Bosque das Colinas|
+|---------------------------------------------------------|
+|![modelo bosque](https://uploaddeimagens.com.br/images/001/352/427/full/UC_Bosque_das_Colinas.png?1522435999)|
 
-Imagem 4 - Bosque 1				   
-Imagem 5 - Bosque 2
-Imagem 6 - Riacho das Colinas                              
-Imagem 7 - Colinas 1
-Imagem 8 - Colinas 2
+|Imagem 4 - Bosque 1|Imagem 5 - Bosque 2|Imagem 6 - Riacho das Colinas|Imagem 7 - Colinas 1|Imagem 8 - Colinas 2|
+|-------------------|-------------------|-----------------------------|--------------------|--------------------|
+|![bosque 1](https://uploaddeimagens.com.br/images/001/352/429/full/Map014.png?1522436354)|![bosque 2](https://uploaddeimagens.com.br/images/001/352/430/full/BosqueColinas_2_Remake.png?1522436420)|![bosque riacho](https://uploaddeimagens.com.br/images/001/352/431/full/Riacho_da_Colinas_Parallax.png?1522436469)|![colinas 1]()|![colinas 2]()|
+
 Imagem 9 - Modelo do mapa da Casa do Caçador
 Imagem 10 - Casa do Caçador Fora
 Imagem 11 - Casa do Cacador Dentro
