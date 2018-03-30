@@ -50,7 +50,13 @@ Este documento descreve as características relativas ao desenvolvimento do jogo
 
 ## Escopo e Descrição do Processo:
 
-Gilgamesh: um conto épico é um Software de Computador Pessoal (PRESSMAN, 2010), mais especificamente um jogo digital, descrevendo acontecimentos da Epopéia de Gilgamesh, e incrementada com novas aventuras e novos personagens, como Alfr, um caçador  que  ajuda Gilgamesh, o rei da cidade de Uruk, em sua jornada, e Skulda, uma misteriosa Feiticeira que se diz designada a ajudar Gilgamesh em suas empreitadas. O game mistura a trama da saga com a fantasia que permeia o universo do RPG, enaltecendo o caráter old school do game. 
+Gilgamesh: um conto épico é um Software de Computador Pessoal (PRESSMAN, 2010), mais especificamente um jogo digital de cunho independente (Indie Game) que de acordo com Lemes (2009, p.27):
+
+>um projeto a ser desenvolvido sem aportes financeiros de grandesempresas. Independente, por assim dizer, é um game que é desenvolvido por uma pequena equipe, ou individualmente, por pura paixão sobre o assunto ou simplesmente pelo fato de querer um dia ganhar dinheiro e fazer carreira na área de criação e desenvolvimento de jogos digitais.
+
+Um jogo digital é por natureza um software de computador e por isso deve passar por processos similares, porém não idênticos, durante seu desenvolvimento (Carli, 2017) o que de certa forma corrobora com Pressman(Op Cit). Gosto de citar Velasquez (2009, p.30) quando afirma que "o jogo de computador não é apenas um brinquedo, mas um grande e complexo projeto de software". 
+
+Este jogo descreve acontecimentos da Epopéia de Gilgamesh, e incrementada com novas aventuras e novos personagens, como Alfr, um caçador  que  ajuda Gilgamesh, o rei da cidade de Uruk, em sua jornada, e Skulda, uma misteriosa Feiticeira que se diz designada a ajudar Gilgamesh em suas empreitadas. O game mistura a trama da saga com a fantasia que permeia o universo do RPG, enaltecendo o caráter old school do game. 
 Na escolha de um modelo de desenvolvimento optou-se pela prototipação, pois Segundo Pressman (2010):
 
  >A prototipação é um processo que capacita o desenvolvedor a criar um modelo do software que será implementado. O modelo pode assumir uma das três formas: (1) um protótipo em papel ou modelo baseado em PC que retrata a interação  homem-máquina de uma forma que capacita o usuário a entender quanta interação ocorrerá; (2) um protótipo de trabalho  que implementa algum subconjunto da função exigida do software desejado; ou (3) um programa existente que executa parte ou toda a função desejada, mas que tem outras características que serão melhoradas em um novo esforço de desenvolvimento.
@@ -1158,6 +1164,10 @@ SumRndmDde <http://sumrndm.site>
 
 Literatura:
 
+CARLI, B. L. Use of Software Engineering techniques by independent game developers in Brazil. Journal of Geek Studies Vol. 4(2):1-9. 2017. Disponível em: <https://jgeekstudies.org/2017/07/24/use-of-software-engineering-techniques-by-independent-game-developers-in-brazil/>
+
+LEMES, D.O. Games Independentes: fundamentos metodológicos para criação, planejamento e desenvolvimento de jogos digitais. Pontifícia Universidade Católica de São Paulo, São Paulo. 2009. Disponível em: <http://livros01.livrosgratis.com.br/cp117708.pdf>
+
 LIMA, E. S. Modelo de Game Design Document. Web, 2014. Disponível em: <http://edirlei.3dgb.com.br/aulas/intro-eng_2014_1/Modelo_Game_Design_Document.docx>;
 
 KOVACS, M. G; CARNAHAN, W. The Epic of Gilgamesh. Web, 1998. Disponível em: <http://www.ancienttexts.org/library/mesopotamian/gilgamesh/> ;
@@ -1167,6 +1177,8 @@ PRESSMAN, R. S. Engenharia de Software. Tradução de José Carlos Barbosa dos S
 SATO, A. K. O. Game Design e Prototipagem: Conceitos e Aplicações ao Longo do Processo Projetual. IX SBGames [pg. 74 - 84] - Florianópolis - SC, 8 a 10 de Novembro de 2010. Disponível em: <http://www.sbgames.org/papers/sbgames10/artanddesign/Full_A&D_10.pdf>
 
 OJIMA, Y. RPG Maker MV. Kadokawa Corporation. 2015;
+
+Velasquez, C.E.L. (2009) Modelo de Engenharia de Software para o Desenvolvimento de Jogos e Simulações. Universidade Fernando Pessoa, Porto. Disponível em: <https://core.ac.uk/download/pdf/61003772.pdf>
 
 Resources:
 //TODO: Atribuir corretamente os nomes aos autores.
