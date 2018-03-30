@@ -614,14 +614,17 @@ O primeiro mapa do jogo é o Bosque das Colinas, nele acontecerá a cena de Alfr
 |![casa do cacador1](https://uploaddeimagens.com.br/images/001/352/436/full/Map017.png?1522436894)|![casa do cacador2](https://uploaddeimagens.com.br/images/001/352/438/full/Map018.png?1522436969)|
 
 
+
 |Imagem 11 - Modelo do mapa da Cidade de Uruk|
 |--------------------------------------------|
 |![Modelo Uruk](https://uploaddeimagens.com.br/images/001/352/443/full/UC_Cidade_de_Uruk.png?1522437513)|
 
 
+
 |Imagem 12 - Cidade de Uruk|Imagem 13 - Loja de Itens, Loja de armas e Equips, Covenstead|Imagem 14 - PUB, INN|
 |--------------------------|-------------------------------------------------------------|--------------------|
 |![uruk city](https://uploaddeimagens.com.br/images/001/352/439/full/Map002.png?1522437031)|![itens](https://uploaddeimagens.com.br/images/001/352/447/full/Map003.png?1522437583) ![armas](https://uploaddeimagens.com.br/images/001/352/450/full/Map004.png?1522437639) ![covenstead](https://uploaddeimagens.com.br/images/001/352/452/full/Map005.png?1522437679)|![pub](https://uploaddeimagens.com.br/images/001/352/453/full/Map006.png?1522437709) ![inn](https://uploaddeimagens.com.br/images/001/352/454/full/Map007.png?1522437746)|
+
 
 
 |￼Imagem 15 - Entrada do Palácio de Uruk, Palácio de Uruk|￼Imagem 16 - Camara Real, Quarto de Gilgamesh|
@@ -649,62 +652,93 @@ O primeiro mapa do jogo é o Bosque das Colinas, nele acontecerá a cena de Alfr
 	//========================
 
 ￼
+
 |Imagem 17 - Modelo do mapa Templos de Uruk|
 |------------------------------------------|
-|![modelo templos]()|
+|![modelo templos](https://uploaddeimagens.com.br/images/001/352/510/full/UC_Templos_de_Uruk.png?1522439889)|
 
 
 |Imagem 18 - Entrada dos Templos de Uruk|Imagem 19 - Templos de Shamash e Templo de Ishtar|Imagem 20 - Templo de Anu|
 |---------------------------------------|-------------------------------------------------|-------------------------|
-|![entrada]()|![shamash]() ![ishtar]()|![anu]()|
+|![entrada](https://uploaddeimagens.com.br/images/001/352/528/full/Uruk_temples-entrace.png?1522440841)|![shamash](https://uploaddeimagens.com.br/images/001/352/530/full/Map027.png?1522440869) ![ishtar](https://uploaddeimagens.com.br/images/001/352/531/full/Map028.png?1522440899)|![anu](https://uploaddeimagens.com.br/images/001/352/532/full/Map029.png?1522440935)|
 
 
 |Imagem 21 - Modelo para Montanha do Egalmah|
 |-------------------------------------------|
-|![modelo egalmah]()|
+|![modelo egalmah](https://uploaddeimagens.com.br/images/001/352/514/full/UC_Montanha_do_Egalmah.png?1522440021)|
 
 |Imagem 22 - Montanha do Egalmah Area 1|Imagem 23 - Montanha do Egalmah Area 2|Imagem 24 - Montanha do Egalmah Area 3|
 |--------------------------------------|--------------------------------------|--------------------------------------|
-|![area1]()|![area2]()|![area3]()|
+|![area1](https://uploaddeimagens.com.br/images/001/352/535/full/Montanha_do_Egalmah_-_Inf_-_Area1%281%29.png?1522441007)|![area2](https://uploaddeimagens.com.br/images/001/352/537/full/Montanha_do_Egalmah_inf_area2.png?1522441046)|![area3](https://uploaddeimagens.com.br/images/001/352/539/full/Montanha_do_Egalmah_-_Inf_-_Area3.png?1522441079)|
 
 
 |Imagem 24 - Montanha do Egalmah Area 4|￼Imagem 25 - Montanha do Egalmah Area 5 e Area 6|
 |--------------------------------------|-----------------------------------------------|
-|![area4]()| ![area5]() ![area6]()|
+|![area4](https://uploaddeimagens.com.br/images/001/352/542/full/Montanha_do_Egalmah_-_Inf_-_Area_4.png?1522441136)| ![area5](https://uploaddeimagens.com.br/images/001/352/543/full/Montanha_do_Egalmah_Area5.png?1522441169) ![area6](https://uploaddeimagens.com.br/images/001/352/545/full/Montanha_do_Egalmah_Area_6.png?1522441205)|
 
 |Imagem 26 - Montanha do Egalmah Area 7 e Area 8|Imagem 27 - Montanha do Egalmah Area 9 e Area 10|
 |-----------------------------------------------|------------------------------------------------|
-|![area7]() ![area8]()| ![area9]() ![area10]()|
+|![area7](https://uploaddeimagens.com.br/images/001/352/547/full/Montanha_do_Egalmah_Area_7.png?1522441239) ![area8](https://uploaddeimagens.com.br/images/001/352/548/full/Montanha_do_Egalmah_Area_8.png?1522441266)| ![area9](https://uploaddeimagens.com.br/images/001/352/549/full/Montanha_do_Egalmah_Area_9.png?1522441340) ![area10](https://uploaddeimagens.com.br/images/001/352/550/full/Montanha_do_Egalmah_Area_10.png?1522441371)|
 
 
-|Imagem 28 - Palácio do Egalmah|Imagem 30 - Entrada do palácio, Sala|
-|------------------------------|--------------------------------------|
-|![palacio]()|![entrada]() ![sala]()|
+|Imagem 28 - Modelo Palácio do Egalmah|
+|------------------------------|
+|![palacio](https://uploaddeimagens.com.br/images/001/352/515/full/UC_Egalmah.png?1522440154)|
+
+
+|Imagem 30 - Entrada do palácio, Sala|
+|------------------------------------|
+|![entrada](https://uploaddeimagens.com.br/images/001/352/552/full/Map041.png?1522441432) ![sala](https://uploaddeimagens.com.br/images/001/352/553/full/Map043.png?1522441456)|
 
 
 |Imagem 31 - Salão principal e INN|Imagem 32 - Loja de Itens e Camara Real|
 |---------------------------------|---------------------------------------|
-|![salao]() ![inn]()|![itens]() ![camara]()|
+|![salao](https://uploaddeimagens.com.br/images/001/352/555/full/Map042.png?1522441527) ![inn](https://uploaddeimagens.com.br/images/001/352/556/full/Map044.png?1522441553)|![itens](https://uploaddeimagens.com.br/images/001/352/558/full/Map045.png?1522441584) ![camara](https://uploaddeimagens.com.br/images/001/352/560/full/Map050.png?1522441624)|
 
 
 |Imagem 33 - Escadarias 1 e 2|Imagem 34 - Escadaria 3, Topo da Torre|
 |----------------------------|--------------------------------------|
-|![1]() ![2]()|![3]() ![topo]()|
+|![1](https://uploaddeimagens.com.br/images/001/352/562/full/Map046.png?1522441688) ![2](https://uploaddeimagens.com.br/images/001/352/564/full/Map047.png?1522441705)|![3](https://uploaddeimagens.com.br/images/001/352/565/full/Map048.png?1522441748) ![topo](https://uploaddeimagens.com.br/images/001/352/566/full/Map049.png?1522441772)|
 
 
 |Imagem 35 - Modelo Trilha do vale|
 |---------------------------------|
-|![modelo trilha do vale]()|
+|![modelo trilha do vale](https://uploaddeimagens.com.br/images/001/352/516/full/UC_Trilha_do_Vale.png?1522440200)|
 
 
 |Imagem 36 - Area1|Imagem 37 - Area2, Area3|
 |-----------------|------------------------|
-|![area1]()|![area2]() ![area3]()|
+|![area1](https://uploaddeimagens.com.br/images/001/352/568/full/Trilha_do_vale_1.png?1522441817)|![area2](https://uploaddeimagens.com.br/images/001/352/570/full/Trilhadovale2.png?1522441842) ![area3](https://uploaddeimagens.com.br/images/001/352/571/full/Trilhadovale3.png?1522441864)|
 
 
 |Imagem 38 - Area4, Area5|Imagem 39 - Area6, Area7|
 |------------------------|------------------------|
-|![area4]() ![area5]()|![area6]() ![area7]()|
+|![area4](https://uploaddeimagens.com.br/images/001/352/573/full/Trilhadovale4.png?1522441932) ![area5](https://uploaddeimagens.com.br/images/001/352/574/full/Trilhadovale5.png?1522441979)|![area6](https://uploaddeimagens.com.br/images/001/352/576/full/Trilhadovale6.png?1522442004) ![area7](https://uploaddeimagens.com.br/images/001/352/578/full/Trilhadovale7.png?1522442034)|
+
+|Modelo Montanha do Vale|
+|-----------------------|
+|![modelo montanha do vale](https://uploaddeimagens.com.br/images/001/352/519/full/UC_Montanha_do_Vale.png?1522440370)|
+
+
+|Modelo Montanha do cedro|
+|------------------------|
+|![modelo montanha cedro](https://uploaddeimagens.com.br/images/001/352/520/full/UC_Montanha_do_Cedro.png?1522440448)|
+
+
+|Modelo Floresta do Cedro|
+|------------------------|
+|![modelo floresta cedro](https://uploaddeimagens.com.br/images/001/352/522/full/UC_Floresta_do_Cedro.png?1522440651)|
+
+
+|Modelo Ruinas do Cedro|
+|----------------------|
+|![modelo ruinas cedro](https://uploaddeimagens.com.br/images/001/352/521/full/UC_Ruinas_do_Cedro.png?1522440610)|
+
+
+|Modelo Gruta das Aranhas|
+|------------------------|
+|![modelo gruta aranhas](https://uploaddeimagens.com.br/images/001/352/525/full/UC_Gruta_das_Aranhas.png?1522440785)|
+
 ￼
 
 	//=========================
