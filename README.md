@@ -875,105 +875,22 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 |Elmo de Aço|2400|Elmo feito de Aço temperado|
 |Elmo de Ouro|5000|Elmo forjado pelos ferreiros dos Deuses, feito de ouro puro|
 
-Itens Sintéticos
-Nome
-Valor
-Descrição
-Requisitos
-Imagem
-Incenso de Lavanda
-1000
-Incenso possuidor do elemento Ar
-10x Lavanda
-10x Visco
-10x Benjoim
-500x Gold
-￼
-Incenso de Mirra
-1000
-Incenso possuidor do elemento Água
-10x Mirra
-10x Algália
-10x Cânfora
-500x Gold
-￼
-Incenso de Almíscar
-1000
-Incenso possuidor do elemento Fogo
-10x Almíscar
-10x Olíbano
-10x Sangue-de-Dragão
-500x Gold
-￼
-Incenso de Narciso
-1000
-Incenso possuidor do elemento Terra
-10x Narciso
-10x Cipreste
-10x Orégano-de-creta
-500x Gold
-￼
-Incenso de Cravos-da-índia
-1500
-Incenso possuidor de poderes curativos
-10x Cravos-da-índia
-10x Noz-mocada
-10x Cedro
-500x Gold
-￼
-Arco de Cipreste
-2000
-Arco longo feito de madeira de Cipreste
-10x Madeira de Cipreste
-15x Cipreste
-1x Arco de ossos
-1x Anshan
-15000x Gold
-￼
-Arco de Mythril
-15000
-Arco recurvo reforçado feito de ouro e mythril
-25x Lapislazuli
-25x Mythril
-1x Arco Dourado
-1x Arco de Cipreste
-50000x Gold
-￼
-Espada Púrpura
-3500
-Espada reluzente adornada com Ametistas
-99x Ametista
-25x Agua-marinha
-2x Sabro
-15000x Gold
-￼
-Espada de Mythril
-20000
-Espada longa feita de ouro e mythril
-25x Lapislazuli
-25x Mythril
-1x Espada Divina
-1x Espada Púrpura
-50000x Gold
-￼
-Machado do Cedro
-2000
-Machado poderoso feito de Aço e madeira de Cedro
-70x Cedro
-99x Ferro Puro
-1x Forca dos Heróis
-1x Duklingoj
-15000x Gold
-￼
-Machado de Mythril
-14000
-Grande machado cujas láminas são feitas de Mythril e sua empunhadura é feita de ouro
-25x Mythril
-25x Lapislazuli
-1x Machado do Cedro
-1x Machado Divino
-50000x Gold
-￼
+## Itens Sintéticos
+
+|Nome|Valor|Descrição|Requisitos|
+|----|-----|---------|----------|
+|Incenso de Lavanda|1000|Incenso possuidor do elemento Ar|10x Lavanda,10x Visco,10x Benjoim,500x Gold|
+|Incenso de Mirra,1000|Incenso possuidor do elemento Água|10x Mirra,10x Algália,10x Cânfora,500x Gold|
+|Incenso de Almíscar|1000|Incenso possuidor do elemento Fogo|10x Almíscar,10x Olíbano,10x Sangue-de-Dragão,500x Gold|
+|Incenso de Narciso|1000|Incenso possuidor do elemento Terra|10x Narciso,10x Cipreste,10x Orégano-de-creta,500x Gold|
+|Incenso de Cravos-da-índia|1500|Incenso possuidor de poderes curativos|10x Cravos-da-índia,10x Noz-mocada,10x Cedro,500x Gold|
+|Arco de Cipreste|2000|Arco longo feito de madeira de Cipreste|10x Madeira de Cipreste,15x Cipreste,1x Arco de ossos,1x Anshan,15000x Gold|
+|Arco de Mythril|15000|Arco recurvo reforçado feito de ouro e mythril|25x Lapislazuli,25x Mythril,1x Arco Dourado,1x Arco de Cipreste,50000x Gold|
+|Espada Púrpura|3500|Espada reluzente adornada com Ametistas|99x Ametista,25x Agua-marinha,2x Sabro,15000x Gold|
+|Espada de Mythril|20000|Espada longa feita de ouro e mythril|25x Lapislazuli,25x Mythril,1x Espada Divina,1x Espada Púrpura,50000x Gold|
+|Machado do Cedro|2000|Machado poderoso feito de Aço e madeira de Cedro|70x Cedro,99x Ferro Puro,1x Forca dos Heróis,1x Duklingoj,15000x Gold|
+|Machado de Mythril|14000|Grande machado cujas láminas são feitas de Mythril e sua empunhadura é feita de ouro|25x Mythril,25x Lapislazuli,1x Machado do Cedro,1x Machado Divino,50000x Gold|
+
 Cajado de Carvalho
 4000
 Cajado feito com madeira de carvalho
