@@ -792,307 +792,88 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 | Nome | Tipo | Valor | Descrição |
 | ---- | ---- | ----- | --------- |
 |Visco||100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Algália||100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Olíbano|100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Cipreste|100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Noz-moscada|150|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Benjoim|250|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Cânfora|250|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Sangue-de-dragão|250|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Orégano-de-Creta|250|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Cedro|300|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Ametista|400|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Agua-Marinha|500|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Algália||100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Olíbano|100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Cipreste|100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Noz-moscada|150|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Benjoim|250|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Cânfora|250|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Sangue-de-dragão|250|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Orégano-de-Creta|250|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Cedro|300|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Ametista|400|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Agua-Marinha|500|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
 |Jade|600|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Lapis-Lazuli|1000|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Presas Afiadas|200|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Garras Afiadas|400|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Raizes de Cedro|300|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Raizes de Carvalho|500|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Bolotas de Carvalho|400|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Madeira de Cipreste|300|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Mythril|5000|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Ferro Puro|400|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-￼|Madeira de Carvalho|1000|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Lapis-Lazuli|1000|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Presas Afiadas|200|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Garras Afiadas|400|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Raizes de Cedro|300|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Raizes de Carvalho|500|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Bolotas de Carvalho|400|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Madeira de Cipreste|300|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Mythril|5000|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Ferro Puro|400|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Madeira de Carvalho|1000|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+
 ￼
 ## Armas e Equipamentos
-Nome
-Valor
-Descrição
-Tipo
-Imagem
-Arco de madeira
-500
-Arco de madeira de pinos, usado por caçadores do vale.
-Arma
-￼
-Espada de Ferro
-600
-Espada de Ferro típica da terra de Uruk.
-Arma
-￼
-Cajado de madeira
-400
-Cajado de madeira de pinos.
-Arma
-￼
-Garras Selvagens
-400
-Garras afiadas como as de uma fera do mato.
-Arma
-￼
-Arco Recurvo
-700
-Arco de eucalipto recurvo, consegue atingir 56 libras.
-Arma
-￼
-Espada Majestosa
-1200
-Espada refinada cuja lâmina 120 libras
-Arma
-￼
-Força dos Heróis
-1200
-Machado reforçado  cujas lâminas possuem 180 libras
-Arma
-￼
-Anshan
-1200
-Arco feito para ajudar na empreitada contra o monstro Humbaba.
-Arma
-￼
-Arco de Ossos
-2400
-Arco longo feito de ossos reforçados, consegue atingir até 78 libras.
-Arma
-￼
-Cajado de Ossos
-2400
-Cajado de ossos enfeitiçados.
-Arma
-￼
-Espada de Ossos
-2400
-Lâmina feita a partir do ossos de alguma criatura muito grande.
-Arma
-￼
-Garras de Ossos
-2400
-Garras arrancadas de alguma fera extremamente feroz.
-Arma
-￼
-Plifortigita
-4000
-Arco Recurvo reforçado com potência de 102 libras.
-Arma
-￼
-Sabro
-4000
-Espada que pertenceu a um grande herói de outros tempos.
-Arma
-￼
-Duklingoj
-4000
-Machado Simples capaz de abrir um buraco em uma parede.
-Arma
-￼
-Magiisto
-4000
-Cajado cujas lendas dizem possuir um grande poder.
-Arma
-￼
-Arco Dourado
-8000
-Arco dourado feito pelos ferreiros dos deuses.
-Arma
-￼
-Espada Divina
-8000
-Espada feita de ouro maciço, forjada pelos ferreiros dos deuses.
-Arma
-￼
-Cajado Dourado
-8000
-Cajado feito de ouro maciço, forjado pelos ferreiros dos deuses
-Arma
-￼
-Machado Divino
-8000
-Machado feito de ouro puro, forjado pelos ferreiros dos deuses
-Arma
-￼
-Escudo de Madeira
-500
-Escudo comum feito de madeira de pinos.
-Escudo
-￼
-Escudo de Ferro
-1500
-Escudo de ferro padrão.
-Escudo
-￼
-Escudo Reforçado
-3500
-Escudo Reforçado em camadas de ferro e madeira.
-Escudo
-￼
-Jadar
-5000
-Diz-se que esse escudo é como se fosse uma parede.
-Escudo
-￼
-Escudo Divino
-9000
-Escudo de Ouro feito pelos ferreiros dos deuses.
-Escudo
-￼
-Cota de Couro
-500
-Roupa feita de couro animal.
-Armadura Leve
-￼
-Cota de Malha
-1500
-Proteção feita de anéis de ferro.
-Armadura Leve
-￼
-Roupão
-500
-Roupão extenso que cobre praticamente o corpo inteiro.
-Armadura Mágica
-￼
-Armadura de Ferro
-600
-Armadura feita de ferro fundido.
-Armadura Pesada
-￼
-Manto Encantado
-1500
-Manto comprido encantado com bruxarias.
-Armadura Mágica
-￼
-Armadura Temperada
-1550
-Armadura de aço temperado com materiais resistentes.
-Armadura Pesada
-￼
-Cota temperada
-1500
-Cota feita com argolas de aço temperado.
-Armadura Leve
-￼
-Vestes do Conjurador
-4000
-Vestes sagradas que aumentam a força de espirito.
-Armadura Mágica
-￼
-Armadura Reforcada
-4000
-Armadura reforçada 
-Armadura Pesada
-￼
-Cota Negra
-3550
-Cota feita de malha temperada com dupla camada de anéis forjados sob magia negra
-Armadura Leve
-￼
-Manto de Aruru
-8000
-Manto Sagrado confeccionado pela própria Deusa Aruru.
-Armadura Mágica
-￼
-Cota de Ouro
-8000
-Cota feita com  três camadas de argolas de ouro maciço.
-Armadura Leve
-￼
-Armadura de Ouro
-8000
-Armadura feita de ouro puro, forjada pelos ferreiros dos Deuses.
-Armadura Pesada
-￼
-Adagas de Caçador
-1000
-Adagas utilizadas por caçadores em substituição do escudo.
-Escudo/arma secundaria
-￼
-Athame 
-1000
-Athame utilizado por feiticeiros em substituição de um escudo
-Escudo/arma secundaria
-￼
-Shoto
-1000
-Lâmina secundária de um guerreiro, pode ser utilizada em substituição de um escudo.
-Escudo/arma secundaria
-￼
-Garras Embutidas
-1000
-Garras Selvagens afiadas como espadas, pode ser utilizadas em substituição do escudo.
-Escudo/ arma secundaria
-￼
-Chapéu
-500
-Chapéu pequeno de tecido
-Cabeça Leve
-￼
-Bandana
-1000
-Bandana de tecido comum
-Cabeça Leve
-￼
-Chapéu de Seda
-2000
-Chapéu de seda oriunda dos povos orientais
-Cabeça Leve
-￼
-Chapéu de Pena
-4000
-Chapéu artesanal com uma pena de adorno
-Cabeça Leve
-￼
-Chapéu pontudo
-500
-Chapéu pontiagudo utilizado pelos bruxos
-Cabeça Magico
-￼
-Capuz
-1000
-Capuz que recobre toda cabeça e oculta a face
-Cabeça Magico
-￼
-Chapéu de Feiticeira
-2500
-Chapéu característico dos feiticeiros
-Cabeça Magico
-￼
-Ornamento divino
-5000
-Ornamento prateado que lembra muito uma coroa
-Cabeça Magico
-￼
-Elmo de Ferro
-600
-Elmo feito de ferro fundido
-Cabeça Pesado
-￼
 
-Elmo de Ossos
-
-1200
-Elmo feito de ossos resistentes de animais
-Cabeça Pesado
-￼
-Elmo de Aço
-2400
-Elmo feito de Aço temperado
-Cabeça Pesado
-￼
-Elmo de Ouro
-5000
-Elmo forjado pelos ferreiros dos Deuses, feito de ouro puro.
-Cabeça Pesado
-￼
+| Nome | Valor | Descrição |
+| ---- | ----- | --------- |
+|Arco de madeira|500|Arco de madeira de pinos, usado por caçadores do vale|
+|Espada de Ferro|600|Espada de Ferro típica da terra de Uruk|
+|Cajado de madeira|400|Cajado de madeira de pinos|
+|Garras Selvagens|400|Garras afiadas como as de uma fera do mato|
+|Arco Recurvo|700|Arco de eucalipto recurvo, consegue atingir 56 libras|
+|Espada Majestosa|1200|Espada refinada cuja lâmina 120 libras|
+|Força dos Heróis|1200|Machado reforçado  cujas lâminas possuem 180 libras|
+|Anshan|1200|Arco feito para ajudar na empreitada contra o monstro Humbaba|
+|Arco de Ossos|2400|Arco longo feito de ossos reforçados, consegue atingir até 78 libras|
+|Cajado de Ossos|2400|Cajado de ossos enfeitiçados|
+|Espada de Ossos|2400|Lâmina feita a partir do ossos de alguma criatura muito grande|
+|Garras de Ossos|2400|Garras arrancadas de alguma fera extremamente feroz|
+|Plifortigita|4000|Arco Recurvo reforçado com potência de 102 libras|
+|Sabro|4000|Espada que pertenceu a um grande herói de outros tempos|
+|Duklingoj|4000|Machado Simples capaz de abrir um buraco em uma parede|
+|Magiisto|4000|Cajado cujas lendas dizem possuir um grande poder|
+|Arco Dourado|8000|Arco dourado feito pelos ferreiros dos deuses|
+|Espada Divina|8000|Espada feita de ouro maciço, forjada pelos ferreiros dos deuses|
+|Cajado Dourado|8000|Cajado feito de ouro maciço, forjado pelos ferreiros dos deuses|
+|Machado Divino|8000|Machado feito de ouro puro, forjado pelos ferreiros dos deuses|
+|Escudo de Madeira|500|Escudo comum feito de madeira de pinos|
+|Escudo de Ferro|1500|Escudo de ferro padrão|
+|Escudo Reforçado|3500|Escudo Reforçado em camadas de ferro e madeira|
+|Jadar|5000|Diz-se que esse escudo é como se fosse uma parede|
+|Escudo Divino|9000|Escudo de Ouro feito pelos ferreiros dos deuses|
+|Cota de Couro|500|Roupa feita de couro animal|
+|Cota de Malha|1500|Proteção feita de anéis de ferro|
+|Roupão|500|Roupão extenso que cobre praticamente o corpo inteiro|
+|Armadura de Ferro|600|Armadura feita de ferro fundido|
+|Manto Encantado|1500|Manto comprido encantado com bruxarias|
+|Armadura Temperada|1550|Armadura de aço temperado com materiais resistentes|
+|Cota temperada|1500|Cota feita com argolas de aço temperado|
+|Vestes do Conjurador|4000||Vestes sagradas que aumentam a força de espirito|
+|Armadura Reforcada|4000|Armadura reforçada|
+|Cota Negra|3550|Cota feita de malha temperada com dupla camada de anéis forjados sob magia negra|
+|Manto de Aruru|8000|Manto Sagrado confeccionado pela própria Deusa Aruru|
+|Cota de Ouro|8000|Cota feita com  três camadas de argolas de ouro maciço|
+|Armadura de Ouro|8000|Armadura feita de ouro puro, forjada pelos ferreiros dos Deuses|
+|Adagas de Caçador|1000|Adagas utilizadas por caçadores em substituição do escudo|
+|Athame|1000|Athame utilizado por feiticeiros em substituição de um escudo|
+|Shoto|1000|Lâmina secundária de um guerreiro, pode ser utilizada em substituição de um escudo|
+|Garras Embutidas|1000|Garras Selvagens afiadas como espadas, pode ser utilizadas em substituição do escudo|
+|Chapéu|500|Chapéu pequeno de tecido|
+|Bandana|1000|Bandana de tecido comum|
+|Chapéu de Seda|2000|Chapéu de seda oriunda dos povos orientais|
+|Chapéu de Pena|4000|Chapéu artesanal com uma pena de adorno|
+|Chapéu pontudo|500|Chapéu pontiagudo utilizado pelos bruxos|
+|Capuz|1000|Capuz que recobre toda cabeça e oculta a face|
+|Chapéu de Feiticeira|2500|Chapéu característico dos feiticeiros|
+|Ornamento divino|5000|Ornamento prateado que lembra muito uma coroa|
+|Elmo de Ferro|600|Elmo feito de ferro fundido|
+|Elmo de Ossos|1200|Elmo feito de ossos resistentes de animais|
+|Elmo de Aço|2400|Elmo feito de Aço temperado|
+|Elmo de Ouro|5000|Elmo forjado pelos ferreiros dos Deuses, feito de ouro puro|
 
 Itens Sintéticos
 Nome
