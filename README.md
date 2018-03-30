@@ -781,16 +781,16 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 | Nome | Tipo | Valor | Descrição |
 | ---- | ---- | ----- | --------- |
 |Lavanda|100|Planta possuidora dos elementos do Ar|
-￼|Mirra|100|Planta possuidora dos elementos da Água|
-￼|Almíscar||100|Planta possuidora dos elementos do Fogo|
-￼|Narciso|100|Planta possuidora dos elementos da Terra|
-￼|Cravos-da-índia|150|Planta possuidora de poderes curativos|
+|Mirra|100|Planta possuidora dos elementos da Água|
+|Almíscar||100|Planta possuidora dos elementos do Fogo|
+|Narciso|100|Planta possuidora dos elementos da Terra|
+|Cravos-da-índia|150|Planta possuidora de poderes curativos|
 ￼
 
 ## Itens de síntese e comercializáveis
 
-| Nome | Tipo | Valor | Descrição |
-| ---- | ---- | ----- | --------- |
+| Nome | Valor | Descrição |
+| ---- | ----- | --------- |
 |Visco||100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
 |Algália||100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
 |Olíbano|100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
