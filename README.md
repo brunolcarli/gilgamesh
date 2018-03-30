@@ -897,6 +897,7 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 |Essência de Narciso|5000|Essência capaz de invocar os poderes da terra|1x Jade,5x Ametista,10x Incenso de Narciso,10x Madeira de Cipreste,3000x Gold|
 |Essência de Cravos-da-índia|6000|Essência curativa|5x Ametista,5x Agua-Marinha,5x Jade,10x Incenso de Cravos-da-índia,3000x Gold|
 
+
 ## Acessórios
 
 |Nome|Valor|Descrição|
@@ -923,107 +924,38 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 
 
 ## Itens de Receita
-Nome
-Valor
-Descrição
-Imagem
-Grimório do Ar I
-1000
-Grimório com instruções para sintetização de incensos
-￼
-Grimório da Agua I
-1000
-Grimório com instruções para sintetização de incensos
-￼
-Grimório do Fogo I
-1000
-Grimório com instruções para sintetização de incensos
-￼
-Grimório da Terra I
-1000
-Grimório com instruções para sintetização de incensos
-￼
-Grimório do Curandeiro I
-1000
-Grimório com instruções para sintetização de incensos
-￼
-Projetos do Marceneiro
--
-Projetos para um tipo de arco de madeira
-￼
-O Arco Azul
--
-Antiga receita quase ilegível
-￼
-Livro do Ferreiro
--
-Passo-a-passo do ferreiro iniciante
-￼
-A Espada Lendária
--
-Antiga receita quase ilegível
-￼
-Machado de Humbaba
--
-Rascunhos deixados por Humbaba na floresta
-￼
-Retrato do Herói
--
-Antiga receita quase ilegível
-￼
-Bengala Druida
--
-Como fazer uma típica bengala druida
-￼
-Cetro de Yaweh
--
-Antiga receita quase ilegível
-￼
-Grimório do Ar II
-10000
-Grimório com instruções para sintetização de essências
-￼
-Grimório da Água II
-10000
-Grimório com instruções para sintetização de essências
-￼
-Grimório do Fogo II
-10000
-Grimório com instruções para sintetização de essências
-￼
-Grimório da Terra II
-10000
-Grimório com instruções para sintetização de essências
-￼
-Grimório do Curandeiro II
-10000
-Grimório com instruções para sintetização de essências
+
+|Nome|Valor|Descrição|
+|----|-----|---------|
+|Grimório do Ar I|1000|Grimório com instruções para sintetização de incensos|
+|Grimório da Agua I|1000|Grimório com instruções para sintetização de incensos|
+|Grimório do Fogo I|1000|Grimório com instruções para sintetização de incensos|
+|Grimório da Terra I|1000|Grimório com instruções para sintetização de incensos|
+|Grimório do Curandeiro I|1000|Grimório com instruções para sintetização de incensos|
+|Projetos do Marceneiro|0|Projetos para um tipo de arco de madeira|
+|O Arco Azul|0|Antiga receita quase ilegível|
+|Livro do Ferreiro|0|Passo-a-passo do ferreiro iniciante|
+|A Espada Lendária|0|Antiga receita quase ilegível|
+|Machado de Humbaba|0|Rascunhos deixados por Humbaba na floresta|
+|Retrato do Herói|0|Antiga receita quase ilegível|
+|Bengala Druida|0|Como fazer uma típica bengala druida|
+|Cetro de Yaweh|0|Antiga receita quase ilegível|
+|Grimório do Ar II|10000|Grimório com instruções para sintetização de essências|
+|Grimório da Água II|10000|Grimório com instruções para sintetização de essências|
+|Grimório do Fogo II|10000|Grimório com instruções para sintetização de essências|
+|Grimório da Terra II|10000|Grimório com instruções para sintetização de essências|
+|Grimório do Curandeiro II|10000|Grimório com instruções para sintetização de essências|
 ￼
 
+## Itens Chave
 
-Itens Chave
-Nome
-Descrição
-Imagem
-Shamat
-Rameira entregue-lhe por Gilgamesh para que leve-a para seduzir a Fera das colinas.
-￼
-Cordeiro branco
-Cordeiro branco para ser levado em  sacrificio á Shamash ns Templos de Uruk
-￼
+|Nome|Descrição|
+|----|---------|
+|Shamat|Rameira entregue-lhe por Gilgamesh para que leve-a para seduzir a Fera das colinas|
+|Cordeiro branco|Cordeiro branco para ser levado em  sacrificio á Shamash ns Templos de Uruk|
 
 
-￼
-
-
-￼
-
-
-￼
-
-
-
-Inimigos 
+## Inimigos 
  //TODO elaborar mais inimigos
 
 ￼
