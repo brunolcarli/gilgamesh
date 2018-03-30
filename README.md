@@ -563,10 +563,11 @@ A imagem dos personagens foi elaborada no criador de imagens do RPG Maker MV, pl
 
 Os cenários do jogo devem descrever uma imagem digna de um ambiente mágico com uma história de fantasia. Os mapas utilizarão a técnica de parallax evidenciando os efeitos de sombreamento, luz e overlays.
 
-￼
+
 |Imagem 2 - Colinas do Bosque|
 |----------------------------|
 |![colinas](https://uploaddeimagens.com.br/images/001/352/429/full/Map014.png?1522436354)|
+
 
 Os cenários serão conectados através de eventos de transferência, sempre que o jogador chegar ao final da estrada e houver este evento, automaticamente o herói será transferido para a continuação do mapa. Em geral as áreas do jogo estarão dispostas em um grande mapa do mundo em que o jogador poderá ter a liberdade de explorar, podendo este entrar nas florestas, bosques, cidades, vilarejos, calabouços, etc. que estiverem por sobre o mapa. Ao tocar em um destes o evento de transferência será ativado, levando o herói para a localização daquela área.
 O mundo será semi-aberto dando liberdade ao jogador para explorar áreas inóspitas do game, desde que possua condições de sobreviver nestas áreas e tenha cumprido determinada parte da história que permita sua passagem nesta área. Por não possuir limites (exceto por poucos bloqueios que somente serão liberados após a conclusão de um determinado evento da história) o jogador poderá, por exemplo, entrar em um calabouço ou região onde os inimigos sejam extremamente fortes, obrigando-o a retornar mais tarde quando ja tiver fortalecido seus heróis.
@@ -592,7 +593,7 @@ Os mapas serão representados neste documento através de diagramas de Caso de U
 
 O primeiro mapa do jogo é o Bosque das Colinas, nele acontecerá a cena de Alfr se deparando com Enkidu no riacho, então o jogador tomará posse do controle sobre Alfr para guiá-lo pelo bosque até a saída para o mapa, em direção a sua casa.
 
-￼
+
 |Imagem 3 - Modelo do mapa da região do Bosque das Colinas|
 |---------------------------------------------------------|
 |![modelo bosque](https://uploaddeimagens.com.br/images/001/352/427/full/UC_Bosque_das_Colinas.png?1522435999)|
@@ -648,29 +649,62 @@ O primeiro mapa do jogo é o Bosque das Colinas, nele acontecerá a cena de Alfr
 	//========================
 
 ￼
-Imagem 17 - Modelo do mapa Templos de Uruk
-Imagem 18 - Entrada dos Templos de Uruk
-Imagem 19 - Templos de Shamash e Templo de Ishtar
-Imagem 20 - Templo de Anu
-Imagem 21 - Montanha do Egalmah 
-Imagem 22 - Montanha do Egalmah - Area 1
-Imagem 23 - Montanha do Egalmah - Area 2
-Imagem 24 - Montanha do Egalmah - Area 3
-Imagem 24 - Montanha do Egalmah - Area 4
-￼Imagem 25 - Montanha do Egalmah - Area 5( Esquerda) e Area 6 (Direita)
-magem 26 - Montanha do Egalmah - Area 7( Esquerda) e Area 8 (Direita)
-magem 27 - Montanha do Egalmah - Area 9( Esquerda) e Area 10 (Direita)
-Imagem 28 - Palácio do Egalmah
-Imagem 30 - Entrada do palácio(esquerda), Sala 1 (Direita)
-Imagem 31 - Salão principal (Esquerda), INN (Direita)
-Imagem 32 - Loja de Itens (Esquerda), Camara Real (Direita)
-Imagem 33 - Escadaria 1 (Esquerda), Escadaria 2 (Direita)
-Imagem 34 - Escadaria 3 (Esquerda), Topo da Torre (Direita)
-Imagem 35 - Trilha do vale
-Imagem 36 - Area1
-Imagem 37 - Area2 (esquerda), Area3 (direita)
-Imagem 38 - Area4 (esquerda), Area5 (direita)
-Imagem 39 - Area6 (esquerda), Area7 (direita)
+|Imagem 17 - Modelo do mapa Templos de Uruk|
+|------------------------------------------|
+|![modelo templos]()|
+
+
+|Imagem 18 - Entrada dos Templos de Uruk|Imagem 19 - Templos de Shamash e Templo de Ishtar|Imagem 20 - Templo de Anu|
+|---------------------------------------|-------------------------------------------------|-------------------------|
+|![entrada]()|![shamash]() ![ishtar]()|![anu]()|
+
+
+|Imagem 21 - Modelo para Montanha do Egalmah|
+|-------------------------------------------|
+|![modelo egalmah]()|
+
+|Imagem 22 - Montanha do Egalmah Area 1|Imagem 23 - Montanha do Egalmah Area 2|Imagem 24 - Montanha do Egalmah Area 3|
+|--------------------------------------|--------------------------------------|--------------------------------------|
+|![area1]()|![area2]()|![area3]()|
+
+
+|Imagem 24 - Montanha do Egalmah Area 4|￼Imagem 25 - Montanha do Egalmah Area 5 e Area 6|
+|--------------------------------------|-----------------------------------------------|
+|![area4]()| ![area5]() ![area6]()|
+
+|Imagem 26 - Montanha do Egalmah Area 7 e Area 8|Imagem 27 - Montanha do Egalmah Area 9 e Area 10|
+|-----------------------------------------------|------------------------------------------------|
+|![area7]() ![area8]()| ![area9]() ![area10]()|
+
+
+|Imagem 28 - Palácio do Egalmah|Imagem 30 - Entrada do palácio, Sala|
+|------------------------------|--------------------------------------|
+|![palacio]()|![entrada]() ![sala]()|
+
+
+|Imagem 31 - Salão principal e INN|Imagem 32 - Loja de Itens e Camara Real|
+|---------------------------------|---------------------------------------|
+|![salao]() ![inn]()|![itens]() ![camara]()|
+
+
+|Imagem 33 - Escadarias 1 e 2|Imagem 34 - Escadaria 3, Topo da Torre|
+|----------------------------|--------------------------------------|
+|![1]() ![2]()|![3]() ![topo]()|
+
+
+|Imagem 35 - Modelo Trilha do vale|
+|---------------------------------|
+|![modelo trilha do vale]()|
+
+
+|Imagem 36 - Area1|Imagem 37 - Area2, Area3|
+|-----------------|------------------------|
+|![area1]()|![area2]() ![area3]()|
+
+
+|Imagem 38 - Area4, Area5|Imagem 39 - Area6, Area7|
+|------------------------|------------------------|
+|![area4]() ![area5]()|![area6]() ![area7]()|
 ￼
 
 	//=========================
