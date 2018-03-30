@@ -778,8 +778,8 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 
 ## Itens Mágicos
 
-| Nome | Tipo | Valor | Descrição |
-| ---- | ---- | ----- | --------- |
+| Nome | Valor | Descrição |
+| ---- | ----- | --------- |
 |Lavanda|100|Planta possuidora dos elementos do Ar|
 |Mirra|100|Planta possuidora dos elementos da Água|
 |Almíscar|100|Planta possuidora dos elementos do Fogo|
@@ -851,7 +851,7 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 |Manto Encantado|1500|Manto comprido encantado com bruxarias|
 |Armadura Temperada|1550|Armadura de aço temperado com materiais resistentes|
 |Cota temperada|1500|Cota feita com argolas de aço temperado|
-|Vestes do Conjurador|4000||Vestes sagradas que aumentam a força de espirito|
+|Vestes do Conjurador|4000|Vestes sagradas que aumentam a força de espirito|
 |Armadura Reforcada|4000|Armadura reforçada|
 |Cota Negra|3550|Cota feita de malha temperada com dupla camada de anéis forjados sob magia negra|
 |Manto de Aruru|8000|Manto Sagrado confeccionado pela própria Deusa Aruru|
