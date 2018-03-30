@@ -958,170 +958,17 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 ## Inimigos 
  //TODO elaborar mais inimigos
 
-￼
-Nome: Gob
-HP: 100
-MP: 20
-Ataque: 10
-Defesa:7
-Agi: 5
-Ataque M: 2
-Defesa M: 3
-Sorte: 5
-Exp: 10
-Ouro: 5
-Drop: maçã (50%)
-Habilidades: Ataque
 
-￼
-Nome: Lobo das Colinas
-HP: 200
-MP: 20
-Ataque: 16
-Defesa:7
-Agi: 8
-Ataque M: 2
-Defesa M: 3
-Sorte: 5
-Exp: 15
-Ouro: 8
-Drop: maçã (100%)
-Habilidades: Ataque
+|Nome|HP|MP|Atk|Def|Atk Mag|Def Mag|Agi|Sorte|Exp Drop|Gold Drop|Item Drop|Skills|
+|----|--|--|---|---|-------|-------|---|-----|--------|---------|---------|------|
+|Lobo das Colinas|200|20|16|7|8|2|3|5|15|8|maçã (100%)|Ataque|
+|Serpente das Colinas|180|50|15|8|7|7|7|5|15|8|Drop: maçã (50%),Óleo de Madressilva(75%)|Ataque, Picada Venenosa|
+|Ladrão|600|20|23|13|8|2|3|5|45|80|Pão sirio (50%); (Elixir P.(50%)|Ataque|
+|Urso das Colinas|1500|20|33|15|8|2|3|5|45|14|Mel de Abelha (50%)|Ataque|
+|Falcão das Colinas|1200|20|30|15|2|3|15|5|40|20|Drop: Salmão(10%),Maçã x3 (100%)|Ataque|
+|Escorpião do Deserto|700|20|17|10|2|3|6|5|30|18|Óleo de Madressilva(100%)|Ataque; Picada Venenosa|
+|Gilgamesh|2000|20|20|15|2|3|8|10|300|22|Maçã x2 (100%)|Ataque|
 
-
-￼
-Nome: Serpente das Colinas
-Hp: 180
-Mp: 50
-Ataque: 15
-Defesa:8
-Agi: 7
-Ataque M: 7
-Defesa M: 7
-Sorte: 5
-Exp: 15
-Ouro: 8
-Drop: maçã (50%);
-Óleo de Madressilva(75%)
-Habilidades: Ataque; Picada Venenosa
-
-￼
-Nome: Ladrão
-HP: 600
-MP: 20
-Ataque: 23
-Defesa:13
-Agi: 8
-Ataque M: 2
-Defesa M: 3
-Sorte: 5
-Exp: 122
-Ouro: 45
-Drop: Pão sirio (50%); (Elixir P.(50%)
-Habilidades: Ataque
-
-￼
-Nome: Urso das Colinas
-HP: 1500
-MP: 20
-Ataque: 33
-Defesa:15
-Agi: 8
-Ataque M: 2
-Defesa M: 3
-Sorte: 5
-Exp: 45
-Ouro: 14
-Drop: Mel de Abelha (50%)
-Habilidades: Ataque
-
-
-Nome: Falcão das Colinas
-HP: 1200
-MP: 20
-Ataque: 30
-Defesa:15
-Agi: 15
-Ataque M: 2
-Defesa M: 3
-Sorte: 5
-Exp: 40
-Ouro: 20
-Drop: Salmão(1%)
-Maçã x3 (100%)
-Habilidades: Ataque
-
-
-￼
-Nome: Escorpião do Deserto
-HP: 700
-MP: 20
-Ataque: 17
-Defesa:10
-Agi: 6
-Ataque M: 2
-Defesa M: 3
-Sorte: 5
-Exp: 30
-Ouro: 18
-Drop: Óleo de Madressilva(100%)
-
-Habilidades: Ataque; Picada Venenosa
-
-
-￼
-Nome: Gob do Deserto
-HP: 800
-MP: 20
-Ataque: 20
-Defesa:15
-Agi: 8
-Ataque M: 2
-Defesa M: 3
-Sorte: 5
-Exp: 30
-Ouro: 22
-Drop: 
-Maçã x2 (100%)
-Habilidades: Ataque
-
-
-
-Nome: Leão
-HP: 00
-MP: 20
-Ataque: 20
-Defesa:15
-Agi: 8
-Ataque M: 2
-Defesa M: 3
-Sorte: 5
-Exp: 30
-Ouro: 22
-Drop: 
-Maçã x2 (100%)
-Habilidades: Ataque
-
-
-
-￼
-Nome: Gilgamesh
-HP: 2000
-MP: 20
-Ataque: 20
-Defesa:15
-Agi: 8
-Ataque M: 2
-Defesa M: 3
-Sorte: 10
-Exp: 300
-Ouro: 22
-Drop: 
-Maçã x2 (100%)
-Habilidades: Ataque
-
-
-Habilidades
 //TODO: adicionar tabela de habilidades de cada personagem principal
 Subquests
 
