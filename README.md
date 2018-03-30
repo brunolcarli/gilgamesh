@@ -815,7 +815,6 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 |Ferro Puro|400|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
 |Madeira de Carvalho|1000|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
 
-￼
 ## Armas e Equipamentos
 
 | Nome | Valor | Descrição |
