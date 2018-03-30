@@ -782,7 +782,7 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 | ---- | ---- | ----- | --------- |
 |Lavanda|100|Planta possuidora dos elementos do Ar|
 |Mirra|100|Planta possuidora dos elementos da Água|
-|Almíscar||100|Planta possuidora dos elementos do Fogo|
+|Almíscar|100|Planta possuidora dos elementos do Fogo|
 |Narciso|100|Planta possuidora dos elementos da Terra|
 |Cravos-da-índia|150|Planta possuidora de poderes curativos|
 ￼
@@ -791,8 +791,8 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 
 | Nome | Valor | Descrição |
 | ---- | ----- | --------- |
-|Visco||100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
-|Algália||100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Visco|100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
+|Algália|100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
 |Olíbano|100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
 |Cipreste|100|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
 |Noz-moscada|150|Especiaria que pode ser utilizada em receitas ou vendida no mercado|
@@ -889,71 +889,15 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 |Espada de Mythril|20000|Espada longa feita de ouro e mythril|25x Lapislazuli,25x Mythril,1x Espada Divina,1x Espada Púrpura,50000x Gold|
 |Machado do Cedro|2000|Machado poderoso feito de Aço e madeira de Cedro|70x Cedro,99x Ferro Puro,1x Forca dos Heróis,1x Duklingoj,15000x Gold|
 |Machado de Mythril|14000|Grande machado cujas láminas são feitas de Mythril e sua empunhadura é feita de ouro|25x Mythril,25x Lapislazuli,1x Machado do Cedro,1x Machado Divino,50000x Gold|
+|Cajado de Carvalho|4000|Cajado feito com madeira de carvalho|50x Jade,50x Bolotas de Carvalho,25x madeira de Carvalho,1x Magiisto,15000x Gold|
+|Cajado de Mythril|16000|Lendário cajado construído a partir de ouro e mythril|25x Mythril,25x Lapislazuli,1x Cajado Dourado,1x Cajado de Carvalho,50000x Gold|
+|Essência de Lavanda|5000|Essência capaz de invocar os poderes do Ar|1x Ametista,5x Bolotas de Carvalho,10x Incenso de Lavanda,10x Benjoim,3000x Gold|
+|Essência de Mirra|5000|Essência capaz de invocar os poderes da água|1x Ametista,5x Raizes de Cedro,10x Incenso de Mirra,10x Algália,3000x Gold|
+|Essência de Almíscar|5000|Essência capaz de invocar os poderes do fogo|1x Ametista,5x Raizes de carvalho,10x Incenso de Almiscar,3000x Gold|
+|Essência de Narciso|5000|Essência capaz de invocar os poderes da terra|1x Jade,5x Ametista,10x Incenso de Narciso,10x Madeira de Cipreste,3000x Gold|
+|Essência de Cravos-da-índia|6000|Essência curativa|5x Ametista,5x Agua-Marinha,5x Jade,10x Incenso de Cravos-da-índia,3000x Gold|
 
-Cajado de Carvalho
-4000
-Cajado feito com madeira de carvalho
-50x Jade
-50x Bolotas de Carvalho
-25x madeira de Carvalho
-1x Magiisto
-15000x Gold
-￼
-Cajado de Mythril
-16000
-Lendário cajado construído a partir de ouro e mythril
-25x Mythril
-25x Lapislazuli
-1x Cajado Dourado
-1x Cajado de Carvalho
-50000x Gold
-￼
-Essência de Lavanda
-5000
-Essência capaz de invocar os poderes do Ar
-1x Ametista
-5x Bolotas de Carvalho
-10x Incenso de Lavanda
-10x Benjoim
-3000x Gold
-￼
-Essência de Mirra
-5000
-Essência capaz de invocar os poderes da água
-1x Ametista
-5x Raizes de Cedro
-10x Incenso de Mirra
-10x Algália
-3000x Gold
-￼
-Essência de Almíscar
-5000
-Essência capaz de invocar os poderes do fogo
-1x Ametista
-5x Raizes de carvalho
-10x Incenso de Almiscar
-3000x Gold
-￼
-Essência de Narciso
-5000
-Essência capaz de invocar os poderes da terra
-1x Jade
-5x Ametista
-10x Incenso de Narciso
-10x Madeira de Cipreste
-3000x Gold
-￼
-Essência de Cravos-da-índia
-6000
-Essência curativa
-5x Ametista
-5x Agua-Marinha
-5x Jade
-10x Incenso de Cravos-da-índia
-3000x Gold
-￼
-
-Acessórios
+## Acessórios
 Nome
 Valor
 Descrição
