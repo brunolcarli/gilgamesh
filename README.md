@@ -879,7 +879,7 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 |Nome|Valor|Descrição|Requisitos|
 |----|-----|---------|----------|
 |Incenso de Lavanda|1000|Incenso possuidor do elemento Ar|10x Lavanda,10x Visco,10x Benjoim,500x Gold|
-|Incenso de Mirra,1000|Incenso possuidor do elemento Água|10x Mirra,10x Algália,10x Cânfora,500x Gold|
+|Incenso de Mirra|1000|Incenso possuidor do elemento Água|10x Mirra,10x Algália,10x Cânfora,500x Gold|
 |Incenso de Almíscar|1000|Incenso possuidor do elemento Fogo|10x Almíscar,10x Olíbano,10x Sangue-de-Dragão,500x Gold|
 |Incenso de Narciso|1000|Incenso possuidor do elemento Terra|10x Narciso,10x Cipreste,10x Orégano-de-creta,500x Gold|
 |Incenso de Cravos-da-índia|1500|Incenso possuidor de poderes curativos|10x Cravos-da-índia,10x Noz-mocada,10x Cedro,500x Gold|
@@ -898,88 +898,31 @@ Imagem 39 - Area6 (esquerda), Area7 (direita)
 |Essência de Cravos-da-índia|6000|Essência curativa|5x Ametista,5x Agua-Marinha,5x Jade,10x Incenso de Cravos-da-índia,3000x Gold|
 
 ## Acessórios
-Nome
-Valor
-Descrição
-Imagem
-Anel
-100
-Anel comum feito de bronze
-￼
-Luvas de Couro
-150
-Luvas feitas de couro animal
-￼
-Pulseira de Bronze
-200
-Pulseira feita a partir da ligação de elos de bronze 
-￼
-Colar de Ametista
-500
-Colar adornado em ametistas lapidadas
-￼
-Pé de Coelho
-8000
-Dizem que traz boa sorte
-￼
-Anel de prata
-1200
-Anel feito de prata pura adornado com rubis
-￼
-Amuleto
-1400
-Dizem que protege o espirito
-￼
-Sandálias
-500
-Ajuda a proteger da areia quente do deserto
-￼
-Botas
-1000
-Botas de couro resistentes para longas jornadas
-￼
-Luvas de Aço
-2000
-Luvas de cavaleiro feitas de aço fundido
-￼
-Botas de Aço
-2000
-Botas de Cavaleiro feitas de Aço fundido
-￼
-Anel rúnico
-3000
-Anel com misteriosas inscrições entalhadas adornado com esmeraldas
-￼
-Colar de Prata
-3000
-Colar feito em prata pura
-￼
-Anel de Ouro
-5000
-Anel adornado com ouro maciço
-￼
-Lenço de Seda
-6000
-Lenço feito de seda do oriente médio.
-￼
-Amuleto de Rubi
-10000
-Uma jóia forjada pelos ferreiros dos deuses
-￼
-Pulseira de Ouro
-10000
-Pulseira feira de ouro puro
-￼
-Colar de Pérola
-10000
-Colar adornado em pérolas reluzentes
-￼
-Jóia Divina
-20000
-Jóia do Cajado de Anu
-￼
 
-Itens de Receita
+|Nome|Valor|Descrição|
+|----|-----|---------|
+|Anel|100|Anel comum feito de bronze|
+|Luvas de Couro|150|Luvas feitas de couro animal|
+|Pulseira de Bronze|200|Pulseira feita a partir da ligação de elos de bronze|
+|Colar de Ametista|500|Colar adornado em ametistas lapidadas|
+|Pé de Coelho|8000|Dizem que traz boa sorte|
+|Anel de prata|1200|Anel feito de prata pura adornado com rubis|
+|Amuleto|1400|Dizem que protege o espirito|
+|Sandálias|500|Ajuda a proteger da areia quente do deserto|
+|Botas|1000|Botas de couro resistentes para longas jornadas|
+|Luvas de Aço|2000|Luvas de cavaleiro feitas de aço fundido|
+|Botas de Aço|2000|Botas de Cavaleiro feitas de Aço fundido|
+|Anel rúnico|3000|Anel com misteriosas inscrições entalhadas adornado com esmeraldas|
+|Colar de Prata|3000|Colar feito em prata pura|
+|Anel de Ouro|5000|Anel adornado com ouro maciço|
+|Lenço de Seda|6000|Lenço feito de seda do oriente médio.|
+|Amuleto de Rubi|10000|Uma jóia forjada pelos ferreiros dos deuses|
+|Pulseira de Ouro|10000|Pulseira feira de ouro puro|
+|Colar de Pérola|10000|Colar adornado em pérolas reluzentes|
+|Jóia Divina|20000|Jóia do Cajado de Anu|
+
+
+## Itens de Receita
 Nome
 Valor
 Descrição
