@@ -597,12 +597,20 @@ O primeiro mapa do jogo é o Bosque das Colinas, nele acontecerá a cena de Alfr
 
 |Imagem 4 - Bosque 1|Imagem 5 - Bosque 2|Imagem 6 - Riacho das Colinas|Imagem 7 - Colinas 1|Imagem 8 - Colinas 2|
 |-------------------|-------------------|-----------------------------|--------------------|--------------------|
-|![bosque 1](https://uploaddeimagens.com.br/images/001/352/429/full/Map014.png?1522436354)|![bosque 2](https://uploaddeimagens.com.br/images/001/352/430/full/BosqueColinas_2_Remake.png?1522436420)|![bosque riacho](https://uploaddeimagens.com.br/images/001/352/431/full/Riacho_da_Colinas_Parallax.png?1522436469)|![colinas 1]()|![colinas 2]()|
+|![bosque 1](https://uploaddeimagens.com.br/images/001/352/429/full/Map014.png?1522436354)|![bosque 2](https://uploaddeimagens.com.br/images/001/352/430/full/BosqueColinas_2_Remake.png?1522436420)|![bosque riacho](https://uploaddeimagens.com.br/images/001/352/431/full/Riacho_da_Colinas_Parallax.png?1522436469)|![colinas 1](https://uploaddeimagens.com.br/images/001/352/432/full/colinas1.png?1522436502)|![colinas 2](https://uploaddeimagens.com.br/images/001/352/433/full/Gilgamesh_-_Colinas_2.png?1522436639)|
 
-Imagem 9 - Modelo do mapa da Casa do Caçador
-Imagem 10 - Casa do Caçador Fora
-Imagem 11 - Casa do Cacador Dentro
-Imagem 11 - Modelo do mapa da Cidade de Uruk
+|Imagem 9 - Modelo do mapa da Casa do Caçador|
+|--------------------------------------------|
+|![modelo casa do caçador](https://uploaddeimagens.com.br/images/001/352/434/full/UC_Casa_do_Cac%CC%A7ador.png?1522436717)|
+
+|Imagem 10 - Casa do Caçador Fora|Imagem 11 - Casa do Cacador Dentro|
+|--------------------------------|----------------------------------|
+|![casa do cacador1](https://uploaddeimagens.com.br/images/001/352/436/full/Map017.png?1522436894)|![casa do cacador2](https://uploaddeimagens.com.br/images/001/352/438/full/Map018.png?1522436969)|
+
+|Imagem 11 - Modelo do mapa da Cidade de Uruk|
+|--------------------------------------------|
+|![Modelo Uruk](https://uploaddeimagens.com.br/images/001/352/439/full/Map002.png?1522437031)|
+
 Imagem 12 - Cidade de Uruk
 Imagem 13 - Loja de Itens, Loja de armas e Equips, Covenstead
 Imagem 14 - PUB, INN
