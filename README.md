@@ -564,7 +564,9 @@ A imagem dos personagens foi elaborada no criador de imagens do RPG Maker MV, pl
 Os cenários do jogo devem descrever uma imagem digna de um ambiente mágico com uma história de fantasia. Os mapas utilizarão a técnica de parallax evidenciando os efeitos de sombreamento, luz e overlays.
 
 ￼
-Imagem 2 - Colinas do Bosque
+|Imagem 2 - Colinas do Bosque|
+|----------------------------|
+|![colinas](https://uploaddeimagens.com.br/images/001/352/429/full/Map014.png?1522436354)|
 
 Os cenários serão conectados através de eventos de transferência, sempre que o jogador chegar ao final da estrada e houver este evento, automaticamente o herói será transferido para a continuação do mapa. Em geral as áreas do jogo estarão dispostas em um grande mapa do mundo em que o jogador poderá ter a liberdade de explorar, podendo este entrar nas florestas, bosques, cidades, vilarejos, calabouços, etc. que estiverem por sobre o mapa. Ao tocar em um destes o evento de transferência será ativado, levando o herói para a localização daquela área.
 O mundo será semi-aberto dando liberdade ao jogador para explorar áreas inóspitas do game, desde que possua condições de sobreviver nestas áreas e tenha cumprido determinada parte da história que permita sua passagem nesta área. Por não possuir limites (exceto por poucos bloqueios que somente serão liberados após a conclusão de um determinado evento da história) o jogador poderá, por exemplo, entrar em um calabouço ou região onde os inimigos sejam extremamente fortes, obrigando-o a retornar mais tarde quando ja tiver fortalecido seus heróis.
@@ -595,27 +597,37 @@ O primeiro mapa do jogo é o Bosque das Colinas, nele acontecerá a cena de Alfr
 |---------------------------------------------------------|
 |![modelo bosque](https://uploaddeimagens.com.br/images/001/352/427/full/UC_Bosque_das_Colinas.png?1522435999)|
 
+
 |Imagem 4 - Bosque 1|Imagem 5 - Bosque 2|Imagem 6 - Riacho das Colinas|Imagem 7 - Colinas 1|Imagem 8 - Colinas 2|
 |-------------------|-------------------|-----------------------------|--------------------|--------------------|
 |![bosque 1](https://uploaddeimagens.com.br/images/001/352/429/full/Map014.png?1522436354)|![bosque 2](https://uploaddeimagens.com.br/images/001/352/430/full/BosqueColinas_2_Remake.png?1522436420)|![bosque riacho](https://uploaddeimagens.com.br/images/001/352/431/full/Riacho_da_Colinas_Parallax.png?1522436469)|![colinas 1](https://uploaddeimagens.com.br/images/001/352/432/full/colinas1.png?1522436502)|![colinas 2](https://uploaddeimagens.com.br/images/001/352/433/full/Gilgamesh_-_Colinas_2.png?1522436639)|
+
 
 |Imagem 9 - Modelo do mapa da Casa do Caçador|
 |--------------------------------------------|
 |![modelo casa do caçador](https://uploaddeimagens.com.br/images/001/352/434/full/UC_Casa_do_Cac%CC%A7ador.png?1522436717)|
 
+
 |Imagem 10 - Casa do Caçador Fora|Imagem 11 - Casa do Cacador Dentro|
 |--------------------------------|----------------------------------|
 |![casa do cacador1](https://uploaddeimagens.com.br/images/001/352/436/full/Map017.png?1522436894)|![casa do cacador2](https://uploaddeimagens.com.br/images/001/352/438/full/Map018.png?1522436969)|
 
+
 |Imagem 11 - Modelo do mapa da Cidade de Uruk|
 |--------------------------------------------|
-|![Modelo Uruk](https://uploaddeimagens.com.br/images/001/352/439/full/Map002.png?1522437031)|
+|![Modelo Uruk](https://uploaddeimagens.com.br/images/001/352/443/full/UC_Cidade_de_Uruk.png?1522437513)|
 
-Imagem 12 - Cidade de Uruk
-Imagem 13 - Loja de Itens, Loja de armas e Equips, Covenstead
-Imagem 14 - PUB, INN
-￼Imagem 15 - Entrada do Palácio de Uruk, Palácio de Uruk
-￼Imagem 16 - Camara Real, Quarto de Gilgamesh
+
+|Imagem 12 - Cidade de Uruk|Imagem 13 - Loja de Itens, Loja de armas e Equips, Covenstead|Imagem 14 - PUB, INN|
+|--------------------------|-------------------------------------------------------------|--------------------|
+|![uruk city](https://uploaddeimagens.com.br/images/001/352/439/full/Map002.png?1522437031)|![itens](https://uploaddeimagens.com.br/images/001/352/447/full/Map003.png?1522437583) ![armas](https://uploaddeimagens.com.br/images/001/352/450/full/Map004.png?1522437639) ![covenstead](https://uploaddeimagens.com.br/images/001/352/452/full/Map005.png?1522437679)|![pub](https://uploaddeimagens.com.br/images/001/352/453/full/Map006.png?1522437709) ![inn](https://uploaddeimagens.com.br/images/001/352/454/full/Map007.png?1522437746)|
+
+
+|￼Imagem 15 - Entrada do Palácio de Uruk, Palácio de Uruk|￼Imagem 16 - Camara Real, Quarto de Gilgamesh|
+|-------------------------------------------------------|--------------------------------------------|
+|![entrada](https://uploaddeimagens.com.br/images/001/352/455/full/Map011.png?1522437801) ![palacio](https://uploaddeimagens.com.br/images/001/352/458/full/Map012.png?1522437857)|![camara real](https://uploaddeimagens.com.br/images/001/352/461/full/Map013.png?1522437920) ![quarto](https://uploaddeimagens.com.br/images/001/352/463/full/Map019.png?1522437946)|
+
+
 
 	//=========================
 	// Locais do capitulo 2
