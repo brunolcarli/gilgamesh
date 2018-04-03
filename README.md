@@ -1232,3 +1232,5 @@ Shields - https://opengameart.org/content/shield-icons-from-pixeltime-videos
 Potions and berryes - https://raventale.itch.io/daily-doodles-pixelart-asset-pack
 
 Treasure - https://opengameart.org/content/golden-treasures
+
+Help na implantação do website gilgamesh no heroku (https://gilgameshweb.herokuapp.com/): Cleypson Belo Martins (https://www.facebook.com/cleypson)
